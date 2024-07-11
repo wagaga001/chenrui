@@ -1,0 +1,25 @@
+{
+  "urls": 
+  [
+    {
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/wagaga001/chenrui/main/%E6%99%A8%E7%91%9E%E5%BD%B1%E7%9B%92-%E5%86%85%E7%BD%AE%E6%8E%A5%E5%8F%A3%E4%B8%93%E7%94%A8",
+      "name": "💎晨瑞影盒核心接口💎"
+    },
+    {
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/wagaga001/chenrui/main/%E6%99%A8%E7%91%9E%E5%BD%B1%E7%9B%92-%E5%86%85%E7%BD%AE%E6%8E%A5%E5%8F%A3%E4%B8%93%E7%94%A8",
+      "name": "😁接口由“晨瑞黑科”😁"
+    },
+    {
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/wagaga001/chenrui/main/%E6%99%A8%E7%91%9E%E5%BD%B1%E7%9B%92-%E5%86%85%E7%BD%AE%E6%8E%A5%E5%8F%A3%E4%B8%93%E7%94%A8",
+      "name": "😁收集制作+后期维护😁"
+    },
+    {
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/wagaga001/chenrui/main/%E6%99%A8%E7%91%9E%E5%BD%B1%E7%9B%92-%E5%86%85%E7%BD%AE%E6%8E%A5%E5%8F%A3%E4%B8%93%E7%94%A8",
+      "name": "💎公众号可获取更新和密码💎"
+    },
+    {
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "name": "🔵晨瑞黑科[动漫专线]"
+    } 
+  ]
+}
