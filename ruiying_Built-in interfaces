@@ -82,7 +82,8 @@
 
 {"key": "jpys","name": "👑荐片影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type": 3,"api": "MJS_JPys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "./荐片影视.js","api": "./drpy2.min.js"},
 {"key":"csp_LiteApple","name":"👑小苹果┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-
+{"key": "mays","name": "👑米爱影视┃公众号【晨瑞黑科】","type": 3,"api": "MJS_mays"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./米爱影视.js","api": "./drpy2.min.js"},
+{"key": "zzys","name": "👑子子影视┃公众号【晨瑞黑科】","type": 3,"api": "MJS_zzys"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./子子影视.js","api": "./drpy2.min.js"},
 {
       "key": "nangua",
       "name": "👑南瓜APP┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
