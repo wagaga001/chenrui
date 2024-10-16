@@ -33,26 +33,15 @@
       "filterable": 0
     },
 
-    {
+{
      "key": "Local",
      "name": "📁本地视频播放器",
      "type": 3,
      "api": "csp_Local",
-     "jar": "./pg.jar"
+     "jar": "./ppgg.jar"
     },
-
+    
 {
-    "key": "晨瑞jpyy",
-    "name": "👑金牌影院┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-    "type": 3,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "api": "csp_XBPQ",
-    "ext": "./金牌影院.json"
-    },
-
-           {
             "key": "Aid",
             "name": "🧰急救知识┃公众号【晨瑞黑科】",
             "type": 3,
@@ -67,7 +56,31 @@
            },
 
 {
-      "key": "MTV",
+    "key": "晨瑞jpyy",
+    "name": "👑金牌影院┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./金牌影院.json"
+    },
+
+{"key": "jpys","name": "👑荐片影视┃公众号【晨瑞黑科】","type": 3,"api": "MJS_JPys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "./荐片影视.js","api": "./drpy2.min.js"},
+{"key":"csp_LiteApple","name":"👑小苹果┃公众号【晨瑞黑科】","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+    
+{
+      "key": "csp_NanGua",
+      "name": "👑南瓜APP┃公众号【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_NanGua",
+      "playerType": 2,
+      "filterable": 1
+    },
+
+
+{
+      "key": "晨瑞MTV",
       "name": "🎧音乐MV┃公众号【晨瑞黑科】",
       "type": 3,
       "api": "csp_Bili",
@@ -78,7 +91,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/chenruihe/tvbox/raw/master/lib%E6%96%87%E4%BB%B6(js+json)/%E9%9F%B3%E4%B9%90MV.json"
+      "ext": "./MV音乐.json"
     },
 
 {
@@ -103,7 +116,7 @@
 			"name": "👑电影先生┃公众号【晨瑞黑科】",
 			"type": 3,
 			"api": "csp_XBPQ",
-            "jar": "./XBPQ.jar",
+                        "jar": "./XBPQ.jar",
 			"ext": {
 				"分类url": "https://dianyi.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html",
 				"简介": "class=\"video-info-item video-info-content vod_content\">&&</span>",
@@ -121,7 +134,7 @@
 		},
 
 {
-    "key": "niba",
+    "key": "晨瑞niba",
     "name": "👑泥巴影院┃公众号【晨瑞黑科】240908配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -135,7 +148,7 @@
        }
     },
 {
-    "key": "jiguang",
+    "key": "晨瑞jiguang",
     "name": "👑极光影院┃公众号【晨瑞黑科】240908配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -150,7 +163,7 @@
        }
     },
 {
-    "key": "yingzhazha",
+    "key": "晨瑞yingzhazha",
     "name": "👑影渣渣┃公众号【晨瑞黑科】240907配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -164,7 +177,7 @@
        }
     },
 {
-    "key": "yinghua",
+    "key": "晨瑞yinghua",
     "name": "👑樱花动漫┃公众号【晨瑞黑科】240907配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -178,7 +191,7 @@
        }
     },
 {
-    "key": "Freeok",
+    "key": "晨瑞Freeok",
     "name": "👑FreeOk追剧┃公众号【晨瑞黑科】240907配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -192,7 +205,7 @@
        }
     },
 {
-    "key": "ruyi",
+    "key": "晨瑞ruyi",
     "name": "👑如意电影┃公众号【晨瑞黑科】240905配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -206,7 +219,7 @@
        }
     },
 {
-    "key": "dianyingxiansheng",
+    "key": "晨瑞dianyingxiansheng",
     "name": "👑dy先生┃公众号【晨瑞黑科】240901配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -220,7 +233,7 @@
        }
     },
 {
-    "key": "xingkong",
+    "key": "晨瑞xingkong",
     "name": "👑星空影院┃公众号【晨瑞黑科】240901配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -234,7 +247,7 @@
        }
     },
 {
-    "key": "woniu",
+    "key": "晨瑞woniu",
     "name": "👑蜗牛影视┃公众号【晨瑞黑科】240901配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -248,7 +261,7 @@
        }
     },
 {
-    "key": "pite",
+    "key": "晨瑞pite",
     "name": "👑皮特影院┃公众号【晨瑞黑科】240901配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -262,7 +275,7 @@
        }
     },
 {
-    "key": "heihu",
+    "key": "晨瑞heihu",
     "name": "👑黑狐影院┃公众号【晨瑞黑科】240901配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -276,7 +289,7 @@
        }
     },
 {
-    "key": "meiyida",
+    "key": "晨瑞meiyida",
     "name": "👑美益达影视┃公众号【晨瑞黑科】240830配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -291,7 +304,7 @@
     },
 
 {
-    "key": "77",
+    "key": "晨瑞77",
     "name": "👑七七电影┃公众号【晨瑞黑科】240831配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -305,7 +318,7 @@
        }
     },
 {
-    "key": "qudongman",
+    "key": "晨瑞qudongman",
     "name": "👑趣动漫┃公众号【晨瑞黑科】240830配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -319,7 +332,7 @@
        }
     },
 {
-    "key": "yaya",
+    "key": "晨瑞yaya",
     "name": "👑丫丫动漫┃公众号【晨瑞黑科】240830配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -333,7 +346,7 @@
        }
     },
 {
-    "key": "vidhub",
+    "key": "晨瑞vidhub",
     "name": "👑hub影视┃公众号【晨瑞黑科】240830配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -347,7 +360,7 @@
        }
     },
 {
-    "key": "yingqu",
+    "key": "晨瑞yingqu",
     "name": "👑影趣影视┃公众号【晨瑞黑科】240830配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -361,7 +374,7 @@
        }
     },
 {
-    "key": "guangyingfaner",
+    "key": "晨瑞guangyingfaner",
     "name": "👑光影范儿┃公众号【晨瑞黑科】240830配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -375,7 +388,7 @@
        }
     },
 {
-    "key": "yadi",
+    "key": "晨瑞yadi",
     "name": "👑雅迪影视┃公众号【晨瑞黑科】240830配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
@@ -389,7 +402,7 @@
        }
     }, 
 {
-"key": "555",
+"key": "晨瑞555",
 "name": "👑555电影网┃公众号【晨瑞黑科】240828配置更新,广告勿信",
 "type": 3,
 "searchable": 1,
@@ -404,7 +417,7 @@
 },
 
 {
-"key": "dada",
+"key": "晨瑞dada",
 "name": "👑dagui影视┃公众号【晨瑞黑科】240827配置更新,广告勿信",
 "type": 3,
 "searchable": 1,
@@ -419,7 +432,7 @@
 },
 
 {
-"key": "皮皮",
+"key": "晨瑞皮皮",
 "name": "👑皮皮影视┃公众号【晨瑞黑科】240827配置更新,广告勿信",
 "type": 3,
 "searchable": 1,
@@ -434,7 +447,7 @@
 },
 
 {
-"key": "Chok",
+"key": "晨瑞Chok",
 "name": "👑Chok影视┃公众号【晨瑞黑科】240827配置更新,广告勿信",
 "type": 3,
 "searchable": 1,
@@ -449,61 +462,6 @@
 },
 
 
-    {
-      "key": "csp_NanGua",
-      "name": "👑南瓜APP┃公众号【晨瑞黑科】",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "filterable": 1
-    },
- {
-      "key": "君君",
-      "name": "👑君君4K┃公众号【晨瑞黑科】",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/"
-    },
-  {
-      "key": "huohuo",
-      "name": "👑火火影视┃公众号【晨瑞黑科】",
-      "type": 3,
-      "jar":"https://gitee.com/chenruihe/tvbox/raw/master/lib%E6%96%87%E4%BB%B6(js+json)/xm.txt",
-      "api": "csp_SaoHuo"
-    },
-  {
-      "key": "csp_农民",
-      "name": "👑汪汪影视┃公众号【晨瑞黑科】",
-      "type": 3,
-      "jar":"https://gitee.com/chenruihe/tvbox/raw/master/lib%E6%96%87%E4%BB%B6(js+json)/xm.txt",
-      "api": "csp_Nongm"
-    },
-  {
-      "key": "csp_全网",
-      "name": "👑全网资源┃公众号【晨瑞黑科】",
-      "type": 3,
-      "api": "csp_Quanwk",
-      "jar":"https://gitee.com/chenruihe/tvbox/raw/master/lib%E6%96%87%E4%BB%B6(js+json)/xm.txt",
-      "ext": "https://888.qkw1.cc/"
-    },
-  {
-      "key": "csp_瓜子",
-      "name": "👑瓜子影视┃公众号【晨瑞黑科】",
-      "api": "csp_Gz360",
-      "jar":"https://gitee.com/chenruihe/tvbox/raw/master/lib%E6%96%87%E4%BB%B6(js+json)/xm.txt",
-      "type": 3,
-      "searchable": 1,
-      "playerType": 2,
-      "timeout": 30,
-      "changeable": 0
-    },
-   
-
-{"key":"csp_LiteApple","name":"👑小苹果┃公众号【晨瑞黑科】","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_NewCz","name":"👑厂长资源┃公众号【晨瑞黑科】","type":3,"api":"csp_NewCz","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://czzy.top/"},
 {"key":"t9-mingri","name":"👑明日影视┃公众号【晨瑞黑科】","type":4,"api":"https://catbox.n13.club/t9/mingri.php"},
 {"key":"t9-saohuo","name":"👑木鱼骚火┃公众号【晨瑞黑科】","type":4,"api":"https://catbox.n13.club/t9/saohuo.php"},
@@ -512,7 +470,7 @@
 {"key":"t9-南瓜","name":"👑木鱼南瓜┃公众号【晨瑞黑科】","type":4,"api":"https://catbox.n13.club/t9/nangua.php"},
 
 
- {"key": "jpys","name": "👑荐片影视┃公众号【晨瑞黑科】","type": 3,"api": "MJS_JPys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "./荐片影视.js","api": "https://gitee.com/chenruihe/tvbox/raw/master/lib%E6%96%87%E4%BB%B6(js+json)/-drpy2.min.js"},
+ 
 
 
 
