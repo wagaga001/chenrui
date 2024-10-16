@@ -482,7 +482,7 @@
 
 {"key": "wfys","name": "👑网飞影视┃公众号【晨瑞黑科】","type": 3,"api": "MJS_wfys"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./网飞影视.js","api": "./drpy2.min.js"},
 {"key": "mays","name": "👑米爱影视┃公众号【晨瑞黑科】","type": 3,"api": "MJS_mays"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./米爱影视.js","api": "./drpy2.min.js"},
-{"key": "zzys","name": "👑子子影视┃公众号【晨瑞黑科】","type": 3,"api": "MJS_zzys"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./子子影视","api": "./drpy2.min.js"},
+{"key": "zzys","name": "👑子子影视┃公众号【晨瑞黑科】","type": 3,"api": "MJS_zzys"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./子子影视.js","api": "./drpy2.min.js"},
 
     
     
