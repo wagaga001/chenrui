@@ -1,5 +1,10 @@
 {
      "搜索url": "https://czzy.top/daoyongjiekoshibushiyoubing?q={wd}",
+     "搜索模式": "1",
+     "搜索数组": "bt_img mi_ne_kd search_list\">&&</div>",
+     "搜索图片": "data-original=\"&&\"",
+     "搜索标题": "title=\"&&\"",
+     "搜索链接": "href=\"&&\"",
      "分类": "豆瓣电影Top250$dbtop250#最新电影$zuixindianying#剧场版$dongmanjuchangban#国产剧$gcj#美剧$meijutt#韩剧$hanjutv#番剧$fanju",
      "分类url": "https://czzy.top/{cateId}/page/{catePg}",
      "线路标题": "公众号【晨瑞黑科】祝您观影愉快：",
