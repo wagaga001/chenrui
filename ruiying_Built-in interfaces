@@ -200,20 +200,24 @@
     },
 
 {"key":"csp_NewCz",
-"name":"👑厂长资源未修复┃公众号【晨瑞黑科】",
+"name":"👑厂长资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
 "type":3,
 "api":"csp_NewCz",
 "searchable":1,
 "quickSearch":1,
 "filterable":0,
-"ext":"https://czzy.top/"
+"ext":
+    {
+     "主页链接":"https://czzy.top/",
+     "搜索链接":"https://czzy.top/daoyongjiekoshibushiyoubing?q={wd}"
+    }
 },    
 
 
         
  {
    "key": "360",
-   "name": "👑360资源┃公众号【晨瑞黑科】",
+   "name": "👑360资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
    "type": 1,
    "playUrl":"",
    "api": "https://360zy.com/api.php/provide/vod?",
@@ -224,7 +228,7 @@
      
  {
 "key": "影图",
- "name": "👑影图资源┃公众号【晨瑞黑科】",
+ "name": "👑影图资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
 "type": 1,
 "playUrl":"",
 "api": "https://cj.vodimg.top/api.php/provide/vod/",
@@ -234,7 +238,7 @@
 },
 
 {"key":"暴风采集",
-"name":"👑暴风资源┃公众号【晨瑞黑科】",
+"name":"👑暴风资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
 "type":1,
 "playUrl":"",
 "api":"https://app.bfzyapi.com/api.php/provide/vod/",
