@@ -212,17 +212,7 @@
    "searchable": 1,
    "changeable": 1
   },
-    
- {
-"key": "索尼资源",
-"name": "👑索尼资源┃公众号【晨瑞黑科】",
-"type": 1,
-"playUrl":"",
-"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
- "searchable": 1,
-"quickSearch": 1
- },   
-
+     
  {
 "key": "影图",
  "name": "👑影图资源┃公众号【晨瑞黑科】",
