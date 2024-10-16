@@ -82,6 +82,26 @@
     "api": "csp_XBPQ",
     "ext": "./金牌影院.json"
     },
+{"key":"csp_NewCz",
+"name":"👑o厂长资源o┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+"type":3,
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":
+    {
+     "主页url": "https://czzy.top/",
+     "搜索url": "https://czzy.top/daoyongjiekoshibushiyoubing?q={wd}",
+     "搜索模式": "1",
+     "分类": "豆瓣电影Top250$dbtop250#最新电影$zuixindianying#剧场版$dongmanjuchangban#国产剧$gcj#美剧$meijutt#韩剧$hanjutv#番剧$fanju",
+     "分类url": "https://czzy.top/{cateId}/page/{catePg}",
+     "线路标题": "祝您观影愉快：+>&&</a>",
+     "播放数组": "class=\"paly_list_btn\">&&</div>",
+     "播放链接": "href=\"&&\"",
+     "简介": "😃公众号【晨瑞黑科】配置😃，内容皆来自互联网，水印广告勿信，谨防诈骗：+yp_context\">&&</p>",
+    }
+},
 
 {"key": "jpys","name": "👑荐片影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type": 3,"api": "MJS_JPys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "./荐片影视.js","api": "./drpy2.min.js"},
 {"key":"csp_LiteApple","name":"👑小苹果┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
@@ -198,23 +218,7 @@
         "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
     },
-
-{"key":"csp_NewCz",
-"name":"👑o厂长资源o┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-"type":3,
-"api":"csp_XBPQ",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext":
-    {
-     "主页url": "https://czzy.top/",
-     "搜索url": "https://czzy.top/daoyongjiekoshibushiyoubing?q={wd}"
-    }
-},    
-
-
-        
+      
  {
    "key": "360",
    "name": "👑360资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
