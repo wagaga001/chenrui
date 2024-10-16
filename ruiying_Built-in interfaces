@@ -209,80 +209,7 @@
 "ext":"https://czzy.top/"
 },    
 
-{
-      "key": "saohuo",
-      "name": "1080P┃骚火┃公众号【晨瑞黑科】",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "playerType": "2",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-        "数组二次截取": "class=\"v_list\">&&</ul>",
-        "数组": "\"v_img\"&&/div>",
-        "标题": "title=\"&&\"",
-        "副标题": "v_note\"&&</div",
-        "跳转播放链接": "<iframe*src=\"&&\"",
-        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-        "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },
- 
-    {
-      "key": "双黄",
-      "name": "蛋蛋剧┃公众号【晨瑞黑科】",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
-        "请求头": "手机#Referer$https://www.dandanju.cc/",
-        "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
-        "分类": "电影$1#剧集$2#动漫$4#综艺$4",
-        "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
-        "搜索模式": "1",
-        "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
-        "搜索数组": "<li class=\"active clearfix&&</li"
-      }
-    },
-    {
-      "key": "热播库",
-      "name": "1080P┃热播┃公众号【晨瑞黑科】",
-      "type": 3,
-      "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_XBPQ",
-      "playerType": "1",
-      "ext": {
-        "主页url": "https://rebozj.pro",
-        "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
-        "图片": "data-original=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "副标题": "class=\"pic-text text-right\"><b>&&</span>",
-        "搜索模式": "1",
-        "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
-        "搜索url": "https://rebozj.pro/ajax/suggest?mid=1&wd={wd}&limit=500",
-        "搜索二次截取": "\"list\":[&&]",
-        "搜索数组": "{&&}",
-        "搜索标题": "\"name\":\"&&\"",
-        "搜索图片": "\"pic\":\"&&\"",
-        "搜索链接": "https://rebozj.pro/detail/+\"id\":&&,+html",
-        "播放列表": "<a&&/a>",
-        "播放标题": ">&&<",
-        "影片类型": "类型：&&</p>",
-        "导演": "导演：&&</p>",
-        "主演": "主演：&&</p>",
-        "简介": "display: none;\">&&</span>",
-        "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
-        "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html"
-      }
-    },
+
         
  {
    "key": "360",
@@ -290,7 +217,7 @@
    "type": 1,
    "playUrl":"",
    "api": "https://360zy.com/api.php/provide/vod?",
-   "categories":["不显示分类","直接搜索即可"],
+   "categories":["动作片","战争片"],
    "searchable": 1,
    "changeable": 1
   },
@@ -301,7 +228,7 @@
 "type": 1,
 "playUrl":"",
 "api": "https://cj.vodimg.top/api.php/provide/vod/",
-"categories":["不显示分类","直接搜索即可"],
+"categories":["动作片","战争片"],
 "searchable": 1,
 "quickSearch": 1
 },
@@ -311,7 +238,7 @@
 "type":1,
 "playUrl":"",
 "api":"https://app.bfzyapi.com/api.php/provide/vod/",
-"categories":["不显示分类","直接搜索即可"],
+"categories":["动作片","战争片"],
 "searchable": 1,
 "quickSearch": 1
 },
