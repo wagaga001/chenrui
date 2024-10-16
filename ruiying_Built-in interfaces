@@ -208,8 +208,8 @@
 "filterable":0,
 "ext":
     {
-     "主页链接":"https://czzy.top/",
-     "搜索链接":"https://czzy.top/daoyongjiekoshibushiyoubing?q={wd}"
+     "主页url": "https://czzy.top/",
+     "搜索url": "https://czzy.top/daoyongjiekoshibushiyoubing?q={wd}"
     }
 },    
 
