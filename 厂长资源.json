@@ -1,5 +1,4 @@
 {
-     "主页url": "https://czzy.top/",
      "搜索url": "https://czzy.top/daoyongjiekoshibushiyoubing?q={wd}",
      "分类": "豆瓣电影Top250$dbtop250#最新电影$zuixindianying#剧场版$dongmanjuchangban#国产剧$gcj#美剧$meijutt#韩剧$hanjutv#番剧$fanju",
      "分类url": "https://czzy.top/{cateId}/page/{catePg}",
