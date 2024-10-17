@@ -11,7 +11,7 @@
    {
       "name": "公众号【晨瑞黑科】直播源",
       "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/wagaga001/chenrui/refs/heads/main/CHENRUI_IPTV.txt",
+      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -137,6 +137,18 @@
       "jar":"./ffmm.jar",
       "api": "csp_SuBaiBai"
     },
+
+  {
+    "key": "晨瑞ddzyy",
+    "name": "👑蛋蛋赞影院┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./蛋蛋赞影院.json"
+    }
+
 
 {
       "key": "玩偶",
