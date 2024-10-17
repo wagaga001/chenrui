@@ -82,6 +82,19 @@
     "api": "csp_XBPQ",
     "ext": "./金牌影院.json"
     },
+
+{
+      "key": "新6V",
+      "name": "👑新6V磁力┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_SixV",
+      "jar": "./FTY.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
+
 {
 "key":"晨瑞cz",
 "name":"👑厂长资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
@@ -97,6 +110,45 @@
 {"key":"csp_LiteApple","name":"👑小苹果┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key": "mays","name": "👑米爱影视┃公众号【晨瑞黑科】","type": 3,"api": "MJS_mays"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./米爱影视.js","api": "./drpy2.min.js"},
 
+
+{
+      "key": "南瓜",
+      "name": "👑叨荐南瓜┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_NanGua",
+      "jar": "./FTY.txt",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+{
+      "key": "晨瑞zxzj",
+      "name": "叨荐在线┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "jar": "./FTY.txt",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.zxzjhd.com/"
+    },
+
+   {
+      "key": "cz厂长",
+      "name": "叨荐厂长┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_NewCz",
+      "jar": "./FTY.txt",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://czzy.top/"
+    },
+
 {
       "key": "nangua",
       "name": "👑南瓜APP┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
@@ -106,7 +158,7 @@
     },
 {
       "key": "csp_SuBaiBai",
-      "name": "👑肥猫素白影视┃公众号【晨瑞黑科】",
+      "name": "👑肥猫素白┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "jar":"./ffmm.jar",
       "api": "csp_SuBaiBai"
@@ -126,6 +178,20 @@
         "from": "4k|auto",
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
+      }
+    },
+
+   {
+      "key": "Lib",
+      "name": "libvio影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
       }
     },
 
@@ -424,9 +490,10 @@
       "changeable": 1
     },
 
+
     {
       "key": "米搜",
-      "name": "🍚米搜┃搜索┃公众号【晨瑞黑科】",
+      "name": "👑夸克盘搜A┃公众号【晨瑞黑科】",
       "type": 3,
       "api": "csp_MIPanSo",
       "searchable": 1,
@@ -437,8 +504,47 @@
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd"
       }
+    },
+    {
+      "key": "夸搜",
+      "name": "夸克盘搜B┃公众号【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "YiSo",
+      "name": "阿里盘搜A┃公众号【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "PanSearch",
+      "name": "阿里盘搜B┃公众号【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     }
-    
 
   ],
 
