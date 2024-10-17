@@ -38,7 +38,6 @@
      "name": "📁本地视频播放器",
      "type": 3,
      "api": "csp_Local",
-     "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ppgg.jar",
      "searchable": 0,
      "quickSearch": 0,
      "filterable": 0
