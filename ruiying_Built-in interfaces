@@ -1,9 +1,9 @@
 //源码包/壁纸全局
 {
-  "spider": "./chenrui.jar;md5;39B412E564539E4205D09003065B49A3",
+  "spider": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/chenrui.jar;md5;39B412E564539E4205D09003065B49A3",
   "logo": "https://upload-bbs.miyoushe.com/upload/2022/04/19/76104219/bee46d7d0e64cdd9288ebe648c87c9c5_8549779036269743494.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif",
   "wallpaper": "https://bing.img.run/rand.php",
-  "warningText":"公众号【晨瑞黑科】提示您：数据皆来自互联网，软件不储存任何媒体资源，广告勿信，谨防诈骗，免费开放，仅供学习交流，不得违法商用和贩卖",
+  "warningText":"公众号【晨瑞黑科】提示您：本软件既不不储存也不代理任何媒体资源，数据皆来自互联网公开爬虫数据，广告勿信，谨防诈骗，免费开放，仅供学习交流，不得违法商用和贩卖",
 
 //直播区
 "lives": 
@@ -11,7 +11,7 @@
    {
       "name": "公众号【晨瑞黑科】直播源",
       "type": 0,
-      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/wagaga001/chenrui/refs/heads/main/CHENRUI_IPTV.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -38,7 +38,7 @@
      "name": "📁本地视频播放器",
      "type": 3,
      "api": "csp_Local",
-     "jar": "./ppgg.jar",
+     "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ppgg.jar",
      "searchable": 0,
      "quickSearch": 0,
      "filterable": 0
@@ -69,7 +69,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./MV音乐.json"
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/MV%E9%9F%B3%E4%B9%90.json"
     },
 
 {
@@ -80,7 +80,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "api": "csp_XBPQ",
-    "ext": "./金牌影院.json"
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.json"
     },
 
 {
@@ -88,7 +88,7 @@
       "name": "👑新6V磁力┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_SixV",
-      "jar": "./FTY.txt",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -97,13 +97,13 @@
 
 {
     "key": "晨瑞kmj",
-    "name": "👑o看美剧o┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑看美剧┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
     "api": "csp_XBPQ",
-    "ext": "./看美剧.json"
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%9C%8B%E7%BE%8E%E5%89%A7.json"
     },
 
 
@@ -115,12 +115,12 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":0,
-"ext":"./厂长资源.json"
+"ext":"https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json"
 },
 
-{"key": "jpys","name": "👑荐片影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type": 3,"api": "MJS_JPys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "./荐片影视.js","api": "./drpy2.min.js"},
+{"key": "jpys","name": "👑荐片影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type": 3,"api": "MJS_JPys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E8%8D%90%E7%89%87%E5%BD%B1%E8%A7%86.js","api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js"},
 {"key":"csp_LiteApple","name":"👑小苹果┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key": "mays","name": "👑米爱影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type": 3,"api": "MJS_mays"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./米爱影视.js","api": "./drpy2.min.js"},
+{"key": "mays","name": "👑米爱影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type": 3,"api": "MJS_mays"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.js","api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js"},
 
 
 {
@@ -128,13 +128,13 @@
       "name": "👑南瓜APP┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "playerType": "2",
-      "api": "./南瓜APP.js"
+      "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%8D%97%E7%93%9CAPP.js"
     },
 {
       "key": "csp_SuBaiBai",
       "name": "👑肥猫素白┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar":"./ffmm.jar",
+      "jar":"https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ffmm.jar",
       "api": "csp_SuBaiBai"
     },
 
@@ -146,7 +146,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "api": "csp_XBPQ",
-    "ext": "./蛋蛋赞影院.json"
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E8%9B%8B%E8%9B%8B%E8%B5%9E%E5%BD%B1%E9%99%A2.json"
     },
 
 
@@ -155,7 +155,7 @@
       "name": "👑玩偶哥哥4K┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./wanougege.jar;md5;2C656EA3596DF85712AB9839689AED16",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/wanougege.jar;md5;2C656EA3596DF85712AB9839689AED16",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -172,7 +172,7 @@
       "name": "👑libvio影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Libvio",
-      "jar": "./FTY.txt",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -236,7 +236,7 @@
       "name": "👑叨荐南瓜┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_NanGua",
-      "jar": "./FTY.txt",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -248,7 +248,7 @@
       "name": "👑叨荐在线┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Zxzj",
-      "jar": "./FTY.txt",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
@@ -261,7 +261,7 @@
       "name": "👑叨荐厂长┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_NewCz",
-      "jar": "./FTY.txt",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -505,7 +505,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "./哔哩哔哩.json"
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9.json"
     },
 
 {
@@ -513,7 +513,7 @@
       "name": "👑短剧大全┃公众号【晨瑞黑科】",
       "type": 3,
       "api": "csp_Djtt",
-      "jar": "./wanougege.jar;md5;2C656EA3596DF85712AB9839689AED16",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/wanougege.jar;md5;2C656EA3596DF85712AB9839689AED16",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -539,7 +539,7 @@
       "name": "夸克盘搜B┃公众号【晨瑞黑科】",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "./FTY.txt",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -554,7 +554,7 @@
       "name": "阿里盘搜A┃公众号【晨瑞黑科】",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "./FTY.txt",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -568,7 +568,7 @@
       "name": "阿里盘搜B┃公众号【晨瑞黑科】",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "./FTY.txt",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
