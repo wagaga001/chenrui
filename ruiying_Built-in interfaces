@@ -11,7 +11,7 @@
    {
       "name": "公众号【晨瑞黑科】直播源",
       "type": 0,
-      "url": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/chenrui007/tvbox/raw/.%2A.%2A.%2A.?ref=master",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/wagaga001/chenrui/refs/heads/main/CHENRUI_IPTV.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -509,8 +509,8 @@
 
 
     {
-      "key": "米搜",
-      "name": "👑夸克盘搜A┃公众号【晨瑞黑科】",
+      "key": "kuake搜",
+      "name": "夸克盘搜A┃公众号【晨瑞黑科】",
       "type": 3,
       "api": "csp_MIPanSo",
       "searchable": 1,
@@ -523,7 +523,7 @@
       }
     },
     {
-      "key": "夸搜",
+      "key": "夸ke搜",
       "name": "夸克盘搜B┃公众号【晨瑞黑科】",
       "type": 3,
       "api": "csp_PanSearch",
