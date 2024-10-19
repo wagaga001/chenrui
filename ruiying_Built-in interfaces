@@ -1,6 +1,6 @@
 //源码包/壁纸全局
 {
-  "spider": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/chenrui.jar;md5;39B412E564539E4205D09003065B49A3",
+  "spider": "./chenrui.jar;md5;39B412E564539E4205D09003065B49A3",
   "logo": "https://upload-bbs.miyoushe.com/upload/2022/04/19/76104219/bee46d7d0e64cdd9288ebe648c87c9c5_8549779036269743494.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif",
   "wallpaper": "https://bing.img.run/rand.php",
   "warningText":"公众号【晨瑞黑科】提示您：本软件既不不储存也不代理任何媒体资源，内容皆来自互联网公开爬虫数据，水印广告勿信，谨防诈骗，免费开放，仅供学习交流，不得违法商用和贩卖",
