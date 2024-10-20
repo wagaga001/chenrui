@@ -71,6 +71,19 @@
       "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/MV%E9%9F%B3%E4%B9%90.json"
     },
 
+
+{
+    "key": "晨瑞xin6v",
+    "name": "👑6V新片速递(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/6V%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92.json"
+    },
+
+
 {
     "key": "晨瑞jpyy",
     "name": "👑金牌影院┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
@@ -153,18 +166,6 @@
     },
 
 {
-      "key": "新6V",
-      "name": "👑新6V磁力┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "type": 3,
-      "api": "csp_SixV",
-      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.xb6v.com/"
-    },
-
-{
     "key": "晨瑞jcyacg",
     "name": "👑囧次元动漫┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
@@ -227,6 +228,18 @@
     "filterable": 1,
     "api": "csp_XBPQ",
     "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/LIBVIO%E5%BD%B1%E8%A7%86.json"
+    },
+
+  {
+      "key": "新6V",
+      "name": "👑新6V磁力┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_SixV",
+      "jar": "./FTY.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
     },
 
 
