@@ -73,8 +73,19 @@
 
 
 {
+    "key": "晨瑞keke",
+    "name": "👑可可影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"
+    },
+
+{
     "key": "晨瑞xin6v",
-    "name": "👑6V新片速递(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑6V新片速递(不支持V5)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -227,7 +238,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/LIBVIO%E5%BD%B1%E8%A7%86.json"
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/LIBVIO%E5%BD%B1%E8%A7%86.json"
     },
 
   {
