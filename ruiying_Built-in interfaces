@@ -95,6 +95,18 @@
     },
 
 {
+    "key": "晨瑞cilixiong",
+    "name": "👑磁力熊┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%A3%81%E5%8A%9B%E7%86%8A.json"
+    },
+
+
+{
     "key": "晨瑞xin6v",
     "name": "👑6V新片速递(不支持V5)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
