@@ -82,6 +82,19 @@
     },
 
 {
+      "key": "csp_JPYY",
+      "name": "👑文采(仅搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/xiaomi.jar",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+
+{
     "key": "晨瑞keke",
     "name": "👑可可影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
@@ -294,6 +307,15 @@
     "filterable": 1,
     "api": "csp_XBPQ",
     "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
+    },
+
+{
+      "key": "csp_Dm84",
+      "name": "👑动漫巴士(仅搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Dm84",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/xiaomi.jar",
+      "playerType": 2
     },
 
 {
