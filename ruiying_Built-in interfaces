@@ -88,7 +88,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_Jpyy",
-      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/xiaomi.jar",
+      "jar": "./xiaomi.jar;md5;5DBE8AA46395C6F5F978C05904BA1074",
       "playerType": 1,
       "filterable": 1,
       "ext": ""
@@ -314,7 +314,7 @@
       "name": "👑动漫巴士(仅搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Dm84",
-      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/xiaomi.jar",
+      "jar": "./xiaomi.jar;md5;5DBE8AA46395C6F5F978C05904BA1074",
       "playerType": 2
     },
 
