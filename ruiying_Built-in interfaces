@@ -495,13 +495,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "api": "csp_XBPQ",
-    "ext": 
-       {
-        "分类url":"https://www.mydyxs.com/xuan/{cateId}/-hits------{catePg}---/",
-        "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilu#短剧$duanju",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
-       }
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.json"
     },
 
 {
