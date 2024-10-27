@@ -375,19 +375,9 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.js",
-   "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js"
+   "api": "csp_XBPQ",
+   "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.json"
     },
-
-
-{
-      "key": "nangua",
-      "name": "👑南瓜APP┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "type": 3,
-      "playerType": "2",
-      "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%8D%97%E7%93%9CAPP.js"
-    },
-
 
   {
     "key": "晨瑞ddzyy",
