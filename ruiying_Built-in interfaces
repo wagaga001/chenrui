@@ -72,6 +72,51 @@
     },
 
 {
+   "key": "jpys",
+   "name": "👑荐片影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 3,
+   "api": "MJS_JPys",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E8%8D%90%E7%89%87%E5%BD%B1%E8%A7%86.js",
+   "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js"
+   },
+
+{
+   "key":"csp_LiteApple",
+   "name":"👑小苹果┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type":3,
+   "api":"csp_LiteApple",
+   "searchable":1,
+   "quickSearch":1,
+   "filterable":1,
+   "changeable":1
+    },
+
+{
+"key":"晨瑞cz",
+"name":"👑厂长资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+"type":3,
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json"
+},
+
+{
+    "key": "晨瑞subaibai",
+    "name": "👑素白白影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%B4%A0%E7%99%BD%E7%99%BD%E5%BD%B1%E8%A7%86.json"
+    },
+
+{
       "key": "csp_Kuaikan",
       "name": "👑快看影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
@@ -319,52 +364,6 @@
     "filterable": 1,
     "api": "csp_XBPQ",
     "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%9C%8B%E7%BE%8E%E5%89%A7.json"
-    },
-
-
-{
-"key":"晨瑞cz",
-"name":"👑厂长资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-"type":3,
-"api":"csp_XBPQ",
-"searchable":1,
-"quickSearch":1,
-"filterable":0,
-"ext":"https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%8E%82%E9%95%BF%E8%B5%84%E6%BA%90.json"
-},
-
-{
-    "key": "晨瑞subaibai",
-    "name": "👑素白白影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-    "type": 3,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "api": "csp_XBPQ",
-    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%B4%A0%E7%99%BD%E7%99%BD%E5%BD%B1%E8%A7%86.json"
-    },
-
-{
-   "key": "jpys",
-   "name": "👑荐片影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-   "type": 3,
-   "api": "MJS_JPys",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E8%8D%90%E7%89%87%E5%BD%B1%E8%A7%86.js",
-   "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js"
-   },
-
-{
-   "key":"csp_LiteApple",
-   "name":"👑小苹果┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-   "type":3,
-   "api":"csp_LiteApple",
-   "searchable":1,
-   "quickSearch":1,
-   "filterable":1,
-   "changeable":1
     },
 
 {
