@@ -1,6 +1,6 @@
 //源码包/壁纸全局
 {
-  "spider": "./chenrui.jar;md5;39B412E564539E4205D09003065B49A3",
+  "spider": "./jar/chenrui.jar;md5;39B412E564539E4205D09003065B49A3",
   "logo": "https://upload-bbs.miyoushe.com/upload/2022/04/19/76104219/bee46d7d0e64cdd9288ebe648c87c9c5_8549779036269743494.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif",
   "wallpaper": "https://bing.img.run/rand.php",
   "warningText":"公众号【晨瑞黑科】提示您：本软件既不不储存也不代理任何媒体资源，内容皆来自互联网公开爬虫数据，水印广告勿信，谨防诈骗，免费开放，仅供学习交流，不得违法商用和贩卖",
@@ -11,7 +11,7 @@
    {
       "name": "公众号【晨瑞黑科】直播源",
       "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/wagaga001/chenrui/refs/heads/main/CHENRUI_IPTV.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/wagaga001/chenrui/main/CHENRUI_IPTV.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -88,7 +88,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_Jpyy",
-      "jar": "./xiaomi.jar;md5;5DBE8AA46395C6F5F978C05904BA1074",
+      "jar": "./jar/xiaomi.jar;md5;5DBE8AA46395C6F5F978C05904BA1074",
       "playerType": 1,
       "filterable": 1,
       "ext": ""
@@ -111,7 +111,7 @@
    "type":1,
    "playUrl":"",
    "api":"https://cj.lziapi.com/api.php/provide/vod/",
-   "categories":["不显示分类，直接搜索即可"],
+   "categories":["动作片","冒险片"],
    "searchable": 1,
    "quickSearch": 1
     },
@@ -219,6 +219,39 @@
     },
 
 {
+   "key": "360caiji",
+   "name": "👑360资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 1,
+   "playUrl":"",
+   "api": "https://360zy.com/api.php/provide/vod?",
+   "categories":["动作片","战争片"],
+   "searchable": 1,
+   "changeable": 1
+  },
+     
+{
+  "key": "影图",
+  "name": "👑影图资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 1,
+   "playUrl":"",
+   "api": "https://cj.vodimg.top/api.php/provide/vod/",
+   "categories":["动作片","战争片"],
+   "searchable": 1,
+   "quickSearch": 1
+     },
+
+{
+  "key":"暴风采集",
+  "name":"👑暴风资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type":1,
+  "playUrl":"",
+  "api":"https://app.bfzyapi.com/api.php/provide/vod/",
+  "categories":["动作片","战争片"],
+  "searchable": 1,
+  "quickSearch": 1
+    },
+
+{
       "key": "晨瑞360ys",
       "name": "👑360影视(仅V5支持)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
@@ -311,9 +344,40 @@
     "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%B4%A0%E7%99%BD%E7%99%BD%E5%BD%B1%E8%A7%86.json"
     },
 
-{"key": "jpys","name": "👑荐片影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type": 3,"api": "MJS_JPys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E8%8D%90%E7%89%87%E5%BD%B1%E8%A7%86.js","api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js"},
-{"key":"csp_LiteApple","name":"👑小苹果┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key": "mays","name": "👑米爱影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗","type": 3,"api": "MJS_mays"  ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.js","api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js"},
+{
+   "key": "jpys",
+   "name": "👑荐片影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 3,
+   "api": "MJS_JPys",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E8%8D%90%E7%89%87%E5%BD%B1%E8%A7%86.js",
+   "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js"
+   },
+
+{
+   "key":"csp_LiteApple",
+   "name":"👑小苹果┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type":3,
+   "api":"csp_LiteApple",
+   "searchable":1,
+   "quickSearch":1,
+   "filterable":1,
+   "changeable":1
+    },
+
+{
+   "key": "mays",
+   "name": "👑米爱影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 3,
+   "api": "MJS_mays"  ,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%B1%B3%E7%88%B1%E5%BD%B1%E8%A7%86.js",
+   "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js"
+    },
 
 
 {
@@ -352,7 +416,7 @@
       "name": "👑动漫巴士(仅搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Dm84",
-      "jar": "./xiaomi.jar;md5;5DBE8AA46395C6F5F978C05904BA1074",
+      "jar": "./jar/xiaomi.jar;md5;5DBE8AA46395C6F5F978C05904BA1074",
       "playerType": 2
     },
 
@@ -383,7 +447,7 @@
       "name": "👑玩偶哥哥4K┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "./wanougege.jar;md5;2C656EA3596DF85712AB9839689AED16",
+      "jar": "./jar/wanougege.jar;md5;2C656EA3596DF85712AB9839689AED16",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -400,7 +464,7 @@
       "name": "👑libvio影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Libvio",
-      "jar": "./FTY.txt",
+      "jar": "./jar/FTY.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -426,7 +490,7 @@
       "name": "👑新6V磁力┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_SixV",
-      "jar": "./FTY.txt",
+      "jar": "./jar/FTY.txt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -444,7 +508,7 @@
     "api": "csp_XBPQ",
     "ext": 
        {
-        "分类url":"https://www.mydyxs.com/xuan/{cateId}/-------{catePg}---{year}/",
+        "分类url":"https://www.mydyxs.com/xuan/{cateId}/-hits------{catePg}---/",
         "分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilu#短剧$duanju",
         "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
         "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
@@ -452,38 +516,38 @@
     },
 
 {
-"key": "晨瑞555",
-"name": "👑555电影网┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-"type": 3,
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"api": "csp_XBPQ",
-"ext": 
-{
-"分类url":"http://www.555ys.cc/vodtype/{cateId}.html",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-"线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-"简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
-}
-},
+  "key": "晨瑞555",
+  "name": "👑555电影网┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "api": "csp_XBPQ",
+  "ext": 
+       {
+        "分类url":"http://www.555ys.cc/vodtype/{cateId}.html",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        }
+      },
 
 {
-"key": "晨瑞Chok",
-"name": "👑Chok影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-"type": 3,
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"api": "csp_XBPQ",
-"ext": 
-{
-"分类url":"https://www.chok8.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-"分类":"电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
-"线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-"简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
-}
-},
+   "key": "晨瑞Chok",
+   "name": "👑Chok影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "csp_XBPQ",
+  "ext": 
+       {
+        "分类url":"https://www.chok8.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类":"电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
+        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        }
+      },
 
 {
     "key": "晨瑞guangyingfaner",
@@ -501,56 +565,7 @@
         "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
     },
-
-{
-    "key": "晨瑞niba",
-    "name": "👑泥巴影院┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-    "type": 3,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "api": "csp_XBPQ",
-    "ext": 
-       {
-        "分类url":"https://nbtvv.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-        "分类":"电影$2#电视剧$2#综艺$3#动漫$4#短剧$5",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
-       }
-    },
-      
- {
-   "key": "360",
-   "name": "👑360资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-   "type": 1,
-   "playUrl":"",
-   "api": "https://360zy.com/api.php/provide/vod?",
-   "categories":["动作片","战争片"],
-   "searchable": 1,
-   "changeable": 1
-  },
-     
- {
-"key": "影图",
- "name": "👑影图资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-"type": 1,
-"playUrl":"",
-"api": "https://cj.vodimg.top/api.php/provide/vod/",
-"categories":["动作片","战争片"],
-"searchable": 1,
-"quickSearch": 1
-},
-
-{"key":"暴风采集",
-"name":"👑暴风资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-"type":1,
-"playUrl":"",
-"api":"https://app.bfzyapi.com/api.php/provide/vod/",
-"categories":["动作片","战争片"],
-"searchable": 1,
-"quickSearch": 1
-},
-
+    
 {
     "key": "晨瑞Freeok",
     "name": "👑FreeOk追剧┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
@@ -596,23 +611,6 @@
        {
         "分类url":"https://wniutv.com/wnys/{cateId}.html",
         "分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian#动作片$dzp#科幻片$khp#战争片$zzp#恐怖片$kbp#喜剧片$xjp#爱情片$aqp#剧情片$jqp#国产剧$gcj#港台剧$gtj#日韩剧$rhj#海外剧$hwj",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
-       }
-    },
-
-{
-    "key": "晨瑞meiyida",
-    "name": "👑美益达影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-    "type": 3,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "api": "csp_XBPQ",
-    "ext": 
-       {
-        "分类url":"https://myd04.com/vodtype/{cateId}.html",
-        "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
         "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
         "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
@@ -685,21 +683,21 @@
     },
 
 {
-"key": "晨瑞皮皮",
-"name": "👑皮皮影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-"type": 3,
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"api": "csp_XBPQ",
-"ext": 
-{
-"分类url":"https://www.ppys01.com/vodtype/{cateId}.html",
-"分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
-"线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-"简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
-}
-},
+   "key": "晨瑞皮皮",
+   "name": "👑皮皮影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "csp_XBPQ",
+  "ext": 
+       {
+        "分类url":"https://www.ppys01.com/vodtype/{cateId}.html",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
+        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        }
+      },
 
 {
       "key": "Bili",
@@ -721,7 +719,7 @@
       "name": "👑短剧大全┃公众号【晨瑞黑科】",
       "type": 3,
       "api": "csp_Djtt",
-      "jar": "./wanougege.jar;md5;2C656EA3596DF85712AB9839689AED16",
+      "jar": "./jar/wanougege.jar;md5;2C656EA3596DF85712AB9839689AED16",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
