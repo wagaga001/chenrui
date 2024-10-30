@@ -28,7 +28,7 @@
      "name": "📁本地视频（须获取存储权限）",
      "type": 3,
      "api": "csp_Local",
-     "jar": "./jar/Gong_Gao_Lan.jar",
+     "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/Gong_Gao_Lan.jar",
      "searchable": 0,
      "quickSearch": 0,
      "filterable": 0
