@@ -95,20 +95,22 @@
    "changeable":1
     },
 
- {
-      "key": "shys",
-      "name": "👑骚火(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "type": 3,
-      "api": "csp_SaoHuo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+{
+    "key": "晨瑞saohuodianying",
+    "name": "👑骚火秒播(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "playerType": 2,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E9%AA%9A%E7%81%AB%E7%A7%92%E6%92%AD.json"
     },
+
 
     {
       "key": "gzys",
-      "name": "👑瓜子(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑瓜子秒播(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -117,6 +119,30 @@
       "playerType": 2,
       "timeout": 30,
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
+
+{
+    "key": "晨瑞dushedianying",
+    "name": "👑毒舌电影(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "playerType": 2,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E6%AF%92%E8%88%8C%E7%94%B5%E5%BD%B1.json"
+    },
+
+{
+    "key": "晨瑞chabehu",
+    "name": "👑茶杯狐(仅搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "playerType": 2,
+    "api": "csp_XBPQ",
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
     },
 
 {
@@ -240,7 +266,7 @@
 
 {
     "key": "晨瑞keke",
-    "name": "👑可可影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑可可影视(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
