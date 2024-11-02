@@ -3,15 +3,15 @@
   "spider": "./jar/chenrui.jar;md5;39B412E564539E4205D09003065B49A3",
   "logo": "https://upload-bbs.miyoushe.com/upload/2022/04/19/76104219/bee46d7d0e64cdd9288ebe648c87c9c5_8549779036269743494.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif",
   "wallpaper": "https://bing.img.run/rand.php",
-  "warningText":"公众号【晨瑞黑科】提示您：本软件既不不储存也不代理任何媒体资源，内容皆来自互联网公开爬虫数据，水印广告勿信，谨防诈骗，免费开放，仅供学习交流，不得违法商用和贩卖",
+  "warningText":"B站【晨瑞黑科】提示您：本软件既不不储存也不代理任何媒体资源，内容皆来自互联网公开爬虫数据，水印广告勿信，谨防诈骗，免费开放，仅供学习交流，不得违法商用和贩卖",
 
 //直播区
 "lives": 
   [
    {
-      "name": "公众号【晨瑞黑科】直播源",
+      "name": "B站【晨瑞黑科】直播源",
       "type": 0,
-      "url": "https://bitbucket.org/chenruiheike/chenrui/raw/ee1778e6b197f89d72258dfc2231a6b47b8fba19/IPTV.txt",
+      "url": "https://git.acwing.com/chenrui/tvbox/-/raw/main/%E6%B5%8B%E8%AF%95IPTV",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
@@ -46,7 +46,7 @@
    
 {
             "key": "Aid",
-            "name": "🧰急救知识┃公众号【晨瑞黑科】",
+            "name": "🧰急救知识┃B站【晨瑞黑科】",
             "type": 3,
             "api": "csp_FirstAid",
             "searchable": 0,
@@ -59,7 +59,7 @@
            },
 {
       "key": "晨瑞MTV",
-      "name": "🎧音乐MV┃公众号【晨瑞黑科】",
+      "name": "🎧音乐MV┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -74,7 +74,7 @@
 
 {
    "key": "jpys",
-   "name": "👑荐片影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "name": "👑荐片影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
    "type": 3,
    "api": "MJS_JPys",
    "searchable": 1,
@@ -86,7 +86,7 @@
 
 {
    "key":"csp_LiteApple",
-   "name":"👑小苹果┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "name":"👑小苹果┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
    "type":3,
    "api":"csp_LiteApple",
    "searchable":1,
@@ -97,7 +97,7 @@
 
 {
     "key": "晨瑞saohuodianying",
-    "name": "👑骚火秒播(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑骚火秒播(不支持搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -110,7 +110,7 @@
 
     {
       "key": "gzys",
-      "name": "👑瓜子秒播(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑瓜子秒播(不支持搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Gz360",
       "searchable": 1,
@@ -123,7 +123,7 @@
 
 {
     "key": "晨瑞dushedianying",
-    "name": "👑毒舌电影(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑毒舌电影(不支持搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -135,7 +135,7 @@
 
 {
     "key": "晨瑞chabehu",
-    "name": "👑茶杯狐(仅搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑茶杯狐(仅搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -147,7 +147,7 @@
 
 {
       "key": "mmys",
-      "name": "👑萌米影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑萌米影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_AppTT",
       "searchable": 1,
@@ -161,7 +161,7 @@
 
  {
       "key": "ygys",
-      "name": "👑一个G影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑一个G影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Pptv",
       "searchable": 1,
@@ -174,7 +174,7 @@
 
  {
       "key": "nfys",
-      "name": "👑奈飞影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑奈飞影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -186,7 +186,7 @@
 
 {
       "key": "sxys",
-      "name": "👑师兄影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑师兄影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -197,7 +197,7 @@
 
 {
     "key": "晨瑞dashixiong",
-    "name": "👑猴哥影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑猴哥影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -210,7 +210,7 @@
 
 {
       "key": "zzys",
-      "name": "👑子子影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑子子影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
@@ -221,7 +221,7 @@
 
 {
 "key":"晨瑞cz",
-"name":"👑厂长资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+"name":"👑厂长资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
 "type":3,
 "api":"csp_XBPQ",
 "searchable":1,
@@ -232,7 +232,7 @@
 
 {
     "key": "晨瑞subaibai",
-    "name": "👑素白白影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑素白白影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -243,7 +243,7 @@
 
 {
       "key": "csp_Kuaikan",
-      "name": "👑快看影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑快看影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -253,7 +253,7 @@
 
 {
       "key": "csp_JPYY",
-      "name": "👑文采(仅搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑文采(仅搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "searchable": 1,
       "changeable": 1,
@@ -266,7 +266,7 @@
 
 {
     "key": "晨瑞keke",
-    "name": "👑可可影视(不支持搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑可可影视(不支持搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -276,8 +276,17 @@
     },
 
 {
+      "key": "tvbbo",
+      "name": "👑TVB云播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js",
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/TVB%E4%BA%91%E6%92%AD.js"
+    }, 
+
+
+{
    "key":"量子caiji",
-   "name":"👑量子资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "name":"👑量子资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
    "type":1,
    "playUrl":"",
    "api":"https://cj.lziapi.com/api.php/provide/vod/",
@@ -288,7 +297,7 @@
 
  {
       "key": "muercaiji",
-      "name": "👑木耳资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑木耳资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 1,
       "api": "https://json02.heimuer.xyz/api.php/provide/vod",
       "searchable": 1,
@@ -352,7 +361,7 @@
 
 {
       "key": "aikun",
-      "name": "👑爱坤资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑爱坤资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod?",
       "searchable": 1,
@@ -390,7 +399,7 @@
 
 {
    "key": "360caiji",
-   "name": "👑360资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "name": "👑360资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
    "type": 1,
    "playUrl":"",
    "api": "https://360zy.com/api.php/provide/vod?",
@@ -401,7 +410,7 @@
      
 {
   "key": "影图",
-  "name": "👑影图资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "name": "👑影图资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
    "type": 1,
    "playUrl":"",
    "api": "https://cj.vodimg.top/api.php/provide/vod/",
@@ -412,7 +421,7 @@
 
 {
   "key":"暴风采集",
-  "name":"👑暴风资源┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "name":"👑暴风资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
   "type":1,
   "playUrl":"",
   "api":"https://app.bfzyapi.com/api.php/provide/vod/",
@@ -423,7 +432,7 @@
 
 {
       "key": "晨瑞360ys",
-      "name": "👑360影视(仅V5支持)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑360影视(仅V5支持)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js",
       "searchable": 1,
@@ -435,7 +444,7 @@
 
 {
       "key": "晨瑞tengguan",
-      "name": "👑腾云驾雾(仅V5支持)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑腾云驾雾(仅V5支持)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js",
       "searchable": 1,
@@ -447,7 +456,7 @@
 
 {
     "key": "晨瑞cilixiong",
-    "name": "👑磁力熊┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑磁力熊┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -459,7 +468,7 @@
 
 {
     "key": "晨瑞xin6v",
-    "name": "👑6V新片速递(不支持V5)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑6V新片速递(不支持V5)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -471,7 +480,7 @@
 
 {
     "key": "晨瑞jpyy",
-    "name": "👑金牌影院┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑金牌影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -482,7 +491,7 @@
 
 {
     "key": "晨瑞kmj",
-    "name": "👑看美剧┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑看美剧┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -493,7 +502,7 @@
 
 {
    "key": "mays",
-   "name": "👑米爱o影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "name": "👑米爱o影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
    "type": 3,
    "api": "MJS_mays"  ,
    "searchable": 1,
@@ -505,7 +514,7 @@
 
   {
     "key": "晨瑞ddzyy",
-    "name": "👑蛋蛋赞影院┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑蛋蛋赞影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -516,7 +525,7 @@
 
 {
     "key": "晨瑞zaixianzhijia",
-    "name": "👑在线之家┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑在线之家┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -527,7 +536,7 @@
 
 {
       "key": "csp_Dm84",
-      "name": "👑动漫巴士(仅搜索)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑动漫巴士(仅搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Dm84",
       "jar": "./jar/xiaomi.jar;md5;5DBE8AA46395C6F5F978C05904BA1074",
@@ -536,7 +545,7 @@
 
 {
     "key": "晨瑞jcyacg",
-    "name": "👑囧次元动漫┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑囧次元动漫┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -547,7 +556,7 @@
 
 {
     "key": "晨瑞yinghua",
-    "name": "👑樱花动漫┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑樱花动漫┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -558,7 +567,7 @@
 
 {
       "key": "玩偶",
-      "name": "👑玩偶哥哥4K┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑玩偶哥哥4K┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_WoGG",
       "jar": "./jar/wanougege.jar;md5;2C656EA3596DF85712AB9839689AED16",
@@ -575,7 +584,7 @@
 
    {
       "key": "范太硬Libvio",
-      "name": "👑libvio影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑libvio影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Libvio",
       "jar": "./jar/FTY.txt",
@@ -590,7 +599,7 @@
 
   {
     "key": "晨瑞LIBVIO",
-    "name": "👑LIBVIO(不含网盘源)┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑LIBVIO(不含网盘源)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -601,7 +610,7 @@
 
   {
       "key": "新6V",
-      "name": "👑新6V磁力┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑新6V磁力┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_SixV",
       "jar": "./jar/FTY.txt",
@@ -614,7 +623,7 @@
 
 {
     "key": "晨瑞dianyingxiansheng",
-    "name": "👑电影先生┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑电影先生┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -625,7 +634,7 @@
 
 {
   "key": "晨瑞555",
-  "name": "👑555电影网┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "name": "👑555电影网┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
   "type": 3,
   "searchable": 1,
   "quickSearch": 1,
@@ -635,14 +644,14 @@
        {
         "分类url":"http://www.555ys.cc/vodtype/{cateId}.html",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
         }
       },
 
 {
    "key": "晨瑞Chok",
-   "name": "👑Chok影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "name": "👑Chok影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -652,14 +661,14 @@
        {
         "分类url":"https://www.chok8.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
         "分类":"电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
         }
       },
 
 {
     "key": "晨瑞guangyingfaner",
-    "name": "👑光影范儿┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑光影范儿┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -669,14 +678,14 @@
        {
         "分类url":"https://www.gyf.lol/index.php/vod/type/id/{cateId}.html",
         "分类":"电影$1#剧集$2#综艺$3#动漫$4",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
     },
     
 {
     "key": "晨瑞Freeok",
-    "name": "👑FreeOk追剧┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑FreeOk追剧┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -686,13 +695,13 @@
        {
         "分类url":"https://www.freeok.pro/vod-show/{cateId}--------{catePg}---{year}.html",
         "分类":"电影$1#剧集$2#动漫$3#综艺$4#少儿$5",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
     },
 {
     "key": "晨瑞ruyi",
-    "name": "👑如意电影┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑如意电影┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -702,14 +711,14 @@
        {
         "分类url":"https://ruyiys.com/index.php/vod/show/id/{cateId}.html",
         "分类":"电影$6#电视剧$1#动漫$7#综艺$8#纪录片$9",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
     },
 
 {
     "key": "晨瑞woniu",
-    "name": "👑蜗牛影视┃公众号【晨瑞黑科】240901配置更新,广告勿信",
+    "name": "👑蜗牛影视┃B站【晨瑞黑科】240901配置更新,广告勿信",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -719,14 +728,14 @@
        {
         "分类url":"https://wniutv.com/wnys/{cateId}.html",
         "分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian#动作片$dzp#科幻片$khp#战争片$zzp#恐怖片$kbp#喜剧片$xjp#爱情片$aqp#剧情片$jqp#国产剧$gcj#港台剧$gtj#日韩剧$rhj#海外剧$hwj",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
     },
 
 {
     "key": "晨瑞77",
-    "name": "👑七七电影┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑七七电影┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -736,13 +745,13 @@
        {
         "分类url":"https://www.77ys.live/vodshow/{cateId}------{catePg}-{year}.html",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
     },
 {
     "key": "晨瑞qudongman",
-    "name": "👑趣动漫┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑趣动漫┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -752,14 +761,14 @@
        {
         "分类url":"https://www.qdm66.com/type/{cateId}.html",
         "分类":"日本动漫$riman#国产动漫$guoman#动漫电影$dmdianying#欧美动漫$oman",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
     },
 
 {
     "key": "晨瑞vidhub",
-    "name": "👑hub影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑hub影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -769,13 +778,13 @@
        {
         "分类url":"https://vidhub1.cc/vodtype/{cateId}.html",
         "分类":"电影$1#连续剧$2#综艺$3#动漫$4",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
     },
 {
     "key": "晨瑞yingqu",
-    "name": "👑影趣影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "name": "👑影趣影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "searchable": 1,
     "quickSearch": 1,
@@ -785,14 +794,14 @@
        {
         "分类url":"https://www.yingqu.net/vodtype/{cateId}.html",
         "分类":"电影$1#短剧$2#电视剧$3#动漫$4#综艺$5",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
        }
     },
 
 {
    "key": "晨瑞皮皮",
-   "name": "👑皮皮影视┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "name": "👑皮皮影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -802,14 +811,14 @@
        {
         "分类url":"https://www.ppys01.com/vodtype/{cateId}.html",
         "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
-        "线路标题": "☕公众号【晨瑞黑科】祝您观影愉快☕",
-        "简介": "😃公众号【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
         }
       },
 
 {
       "key": "Bili",
-      "name": "👑哔哩哔哩┃公众号【晨瑞黑科】",
+      "name": "👑哔哩哔哩┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -824,7 +833,7 @@
 
 {
       "key": "短剧",
-      "name": "👑短剧大全┃公众号【晨瑞黑科】",
+      "name": "👑短剧大全┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_Djtt",
       "jar": "./jar/wanougege.jar;md5;2C656EA3596DF85712AB9839689AED16",
@@ -836,7 +845,7 @@
 
     {
       "key": "kuake搜",
-      "name": "夸克盘搜A┃公众号【晨瑞黑科】",
+      "name": "夸克盘搜A┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_MIPanSo",
       "searchable": 1,
@@ -850,7 +859,7 @@
     },
     {
       "key": "夸ke搜",
-      "name": "夸克盘搜B┃公众号【晨瑞黑科】",
+      "name": "夸克盘搜B┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_PanSearch",
       "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
@@ -865,7 +874,7 @@
     },
     {
       "key": "YiSo",
-      "name": "阿里盘搜A┃公众号【晨瑞黑科】",
+      "name": "阿里盘搜A┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_YiSo",
       "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
@@ -879,7 +888,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "阿里盘搜B┃公众号【晨瑞黑科】",
+      "name": "阿里盘搜B┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_PanSearch",
       "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/FTY.txt",
@@ -1368,11 +1377,62 @@
         "uhibo.com",
         ".*boku.*",
         ".*nivod.*",
+        ".*ulivetv.*",
+        "mypikpak.com",
+        ".*workers.dev",
+        "www.cilixiong.com",
+        "*.t4tv.hz.cz",
+        "kuba222.com",
+        "mp4us.com",
+        "dydhhy.com",
+        "magicalsearch.top",
+        "api123.adys.app",
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
         ".*ulivetv.*"
       ]
     },
+
+   {
+      "name": "磁力廣告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "更多",
+        "社區",
+        "xuu",
+        "最新",
+        "最新",
+        "直播",
+        "更新",
+        "社区",
+        "有趣",
+        "有趣",
+        "英皇体育",
+        "全中文AV在线",
+        "澳门皇冠赌场",
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
+        "新片首发",
+        "UUE29"
+      ]
+    },
+    
     {
-      "name": "海外看┃公众号【晨瑞黑科】",
+      "name": "海外看┃B站【晨瑞黑科】",
       "hosts": [
         "haiwaikan"
       ],
@@ -1383,7 +1443,7 @@
       ]
     },
     {
-      "name": "暴风廣告┃公众号【晨瑞黑科】",
+      "name": "暴风廣告┃B站【晨瑞黑科】",
       "hosts": [
         "bfzy",
         "s5.bfzycdn"
@@ -1393,7 +1453,7 @@
       ]
     },
     {
-      "name": "星星┃公众号【晨瑞黑科】",
+      "name": "星星┃B站【晨瑞黑科】",
       "hosts": [
         "aws.ulivetv.net"
       ],
