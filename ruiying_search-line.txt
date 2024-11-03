@@ -2,7 +2,7 @@
 "urls":
 [
    {
-    "name": "公众号【晨瑞黑科】搜索线路",
+    "name": "选中【晨瑞黑科】搜索接口",
      "url": "https://ghp.ci/https://raw.githubusercontent.com/wagaga001/chenrui/main/ruiying_Built-in%20interfaces"
     }
  ]
