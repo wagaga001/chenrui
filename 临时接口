@@ -73,6 +73,17 @@
     },
 
 {
+      "key": "kuqimv",
+      "name": "🎧酷奇DJ┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E9%85%B7%E5%A5%87DJ.json"
+    }, 
+
+{
    "key": "jpys",
    "name": "👑荐片影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
    "type": 3,
@@ -122,6 +133,18 @@
     },
 
 {
+      "key": "xingchenyingshi",
+      "name": "👑星辰影视(不支持搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js",
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E6%98%9F%E8%BE%B0%E5%BD%B1%E8%A7%86.js"
+    }, 
+
+
+{
     "key": "晨瑞dushedianying",
     "name": "👑毒舌电影(不支持搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
@@ -144,6 +167,18 @@
     "api": "csp_XBPQ",
     "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
     },
+
+{
+      "key": "DIDUANYS",
+      "name": "👑低端影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js",
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.js"
+    }, 
+
 
 {
       "key": "mmys",
@@ -925,8 +960,20 @@
     },
 
     {
-      "name": "77解析",
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "name": "咸鱼解析",
+      "type": 0,
+      "url": "https://jx.xymp4.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+          "referer": "https://jx.xymp4.cc/"
+        }
+      }
+    },
+
+    {
+      "name": "邦宁解析",
+      "url": "https://video.isyour.love/player/getplayer?url=",
       "type": 0,
       "ext": {
         "flag": [
