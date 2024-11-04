@@ -106,6 +106,7 @@
    "changeable":1
     },
 
+
 {
     "key": "晨瑞saohuodianying",
     "name": "👑骚火秒播(不支持搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
@@ -154,6 +155,53 @@
     "playerType": 2,
     "api": "csp_XBPQ",
     "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E6%AF%92%E8%88%8C%E7%94%B5%E5%BD%B1.json"
+    },
+
+{
+      "key": "crbite",
+      "name": "👑比特秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ffm241025.txt",
+      "api": "csp_Bttwo"
+    },
+
+{
+      "key": "crjpmb",
+      "name": "👑金牌秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ffm241025.txt",
+      "api": "csp_Jpyy"
+    },
+
+{
+      "key": "crqiyou",
+      "name": "👑奇优秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ffm241025.txt",
+      "api": "csp_Qiyou"
+    },
+
+{
+      "key": "wangwangmb",
+      "name": "👑旺旺秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ftb_XBPQ.jar",
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E6%97%BA%E6%97%BA%E7%A7%92%E6%92%AD.json"
+    },
+
+
+{
+      "key": "csp_Netfixtv",
+      "name": "👑至臻4k盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Duopan",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ffm241025.txt",
+      "filterable": 1,
+      "ext": "http://mpanso.com"
     },
 
 {
