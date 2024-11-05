@@ -106,6 +106,34 @@
    "changeable":1
     },
 
+{
+      "key": "crshysmb",
+      "name": "👑烧火棍秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "changeable": 0,
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/xiaomi.jar",
+      "api": "csp_SaoHuo"
+    },
+
+   {
+      "key": "crttys",
+      "name": "👑天天影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗┃1080P",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/tiantian+kexing+huohuo.jar"
+    },
+
+    {
+      "key": "crkxys",
+      "name": "👑科星影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Xdai",
+      "playerType": 2,
+      "ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/tiantian+kexing+huohuo.jar"
+    },
 
 {
     "key": "晨瑞saohuodianying",
