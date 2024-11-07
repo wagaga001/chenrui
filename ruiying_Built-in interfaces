@@ -60,7 +60,7 @@
 
 {
     "key": "hipy_js_KTV",
-    "name": "🎧享听音乐┃B站【晨瑞黑科】",
+    "name": "🎧享听音乐[不支持V5]┃B站【晨瑞黑科】",
     "type": 3,
     "api": "http://kxrj.site:55/lib/drpy2.min.js",
     "searchable": 1,
