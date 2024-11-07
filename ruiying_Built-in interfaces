@@ -57,6 +57,19 @@
                 "ratio": 3.8
             }
            },
+
+{
+    "key": "hipy_js_KTV",
+    "name": "🎧享听音乐",
+    "type": 3,
+    "api": "http://kxrj.site:55/lib/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "order_num": 0,
+    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E4%BA%AB%E5%90%AC%E9%9F%B3%E4%B9%90MV.js"
+    },
+
 {
       "key": "晨瑞MTV",
       "name": "🎧音乐MV┃B站【晨瑞黑科】",
@@ -147,6 +160,17 @@
     "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E9%AA%9A%E7%81%AB%E7%A7%92%E6%92%AD.json"
     },
 
+{
+  "key":"瓜子",
+  "name": "👑瓜子超清点播┃公众号【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type":3,
+  "searchable":1,
+  "quickSearch":1,
+  "changeable":1,
+  "playerType":"1",
+  "api":"http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "ext":"https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%97%91%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.js"
+  },
 
     {
       "key": "gzys",
@@ -221,17 +245,6 @@
       "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E6%97%BA%E6%97%BA%E7%A7%92%E6%92%AD.json"
     },
 
-
-{
-      "key": "csp_Netfixtv",
-      "name": "👑至臻4k盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "type": 3,
-      "api": "csp_Duopan",
-      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ffm241025.txt",
-      "filterable": 1,
-      "ext": "http://mpanso.com"
-    },
-
 {
     "key": "晨瑞chabehu",
     "name": "👑茶杯狐(仅搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
@@ -255,6 +268,16 @@
       "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.js"
     }, 
 
+{
+      "key": "XBPQ_电影先生",
+      "name": "👑电影SIR┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1,
+      "api": "csp_XBPQ",
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%94%B5%E5%BD%B1SIR.json"
+    },
 
 {
       "key": "mmys",
@@ -691,6 +714,50 @@
         "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
+    },
+
+{
+    "key": "夸克蜡笔弹幕",
+    "name": "👑蜡笔4K网盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "api": "csp_Wobg",
+    "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/danmu.php",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "site": "http://labipan.com/",
+           "danmu": true
+         }
+      },
+
+   {
+    "key": "夸克云星弹幕",
+    "name": "👑云星4K网盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "api": "csp_Wobg",
+    "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/danmu.php",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://4k.4u4.cn",
+           "danmu": true
+         }
+       },
+{
+      "key": "csp_Netfixtv",
+      "name": "👑至臻4k盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Duopan",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ffm241025.txt",
+      "filterable": 1,
+      "ext": "http://mpanso.com"
     },
 
    {
