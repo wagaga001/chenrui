@@ -167,7 +167,7 @@
       "key": "csp_shvip",
       "name": "👑骚火VIP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/MH.jar",
+      "jar": "./jar/MH.jar",
       "api": "csp_XBPQ",
       "ext": 
         {
@@ -275,7 +275,7 @@
       "key": "韩剧APP",
       "name": "👑韩剧APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar":"https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/XY.txt",
+      "jar":"./jar/XY.txt",
       "api": "csp_HanXiaoQuan",
       "quickSearch": 1,
       "searchable": 1,
