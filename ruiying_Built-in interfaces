@@ -86,6 +86,20 @@
     },
 
 {
+      "key": "kugoumusic",
+      "name": "🎧酷狗音乐┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_Music",
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/kugou.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+                  "type": "rect",
+                  "ratio": 1.433
+                  }
+          },
+
+{
       "key": "kuqimv",
       "name": "🎧酷奇DJ┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
@@ -95,6 +109,28 @@
       "api": "csp_XBPQ",
       "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E9%85%B7%E5%A5%87DJ.json"
     }, 
+
+{
+      "key": "csp_瓜子APP",
+      "name": "👑瓜子APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy3.min.js",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%93%9C%E5%AD%90APP.js",
+      "timeout": 25
+    },
+
+{
+      "key": "csp_XYQHikerNm",
+      "name": "👑糯米APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/MH.jar",
+      "api": "csp_XYQHiker",
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%B3%AF%E7%B1%B3APP.js"
+    },
 
 {
    "key": "jpys",
@@ -127,6 +163,36 @@
       "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/xiaomi.jar",
       "api": "csp_SaoHuo"
     },
+{
+      "key": "csp_shvip",
+      "name": "👑骚火VIP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/MH.jar",
+      "api": "csp_XBPQ",
+      "ext": 
+        {
+        "站名": "骚火影视",
+        "主页url": "https://saohuo.vip/",
+        "简介": "+<p class=\"p_txt show_part\"&&</p>",
+        "导演": "</h1><p>* / 导演：&& /",
+        "主演": "主演：&&</p>",
+        "影片地区": "</h1><p>&& / ",
+        "影片年代": "<p>* / && /",
+        "影片状态": "v_note\">&&</div>",
+        "搜索url": "/search.php?searchword={wd}",
+        "线路二次截取": "<ul class=\"from_list\">&&</ul>",
+        "线路数组": "<li&&/li>",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕+>&&<[替换:1号线路>>骚火专线#2线路>>骚火备用]",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\"",
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://saohuo.vip/list/{cateId}-{catePg}.html[https://saohuo.vip/list/{cateId}.html];;kdvr1au0",
+        "分类": "B站【晨瑞黑科】$1#电影$1#电视剧$2#韩剧$22#动漫$4"
+
+        }
+    },
+
 
 {
   "key": "nfzwyscr",
@@ -137,6 +203,17 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%A5%88%E9%A3%9E%E4%B8%AD%E6%96%87.json"
+    },
+
+{
+      "key": "csp_zbkys",
+      "name": "👑真不卡影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%9C%9F%E4%B8%8D%E5%8D%A1%E5%BD%B1%E9%99%A2.json"
     },
 
 {
@@ -195,6 +272,20 @@
     },
 
 {
+      "key": "韩剧APP",
+      "name": "👑韩剧APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar":"https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/XY.txt",
+      "api": "csp_HanXiaoQuan",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+
+
+{
     "key": "晨瑞saohuodianying",
     "name": "👑骚火秒播(不支持搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
@@ -230,6 +321,29 @@
       "timeout": 30,
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
+
+{
+      "key": "耐看影视",
+      "name": "👑耐看影视[不能搜索]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar":"https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/XY.txt",
+      "api": "csp_WebNK",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+
+{
+      "key": "csp_qxysys",
+      "name": "👑七新影视[不能搜索]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar":"https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/MH.jar",
+      "api": "csp_XBPQ",
+      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E4%B8%83%E6%96%B0%E5%BD%B1%E8%A7%86.js"
+    },
+
 
 {
       "key": "xingchenyingshi",
@@ -876,6 +990,24 @@
   "filterable": 1,
   "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E6%99%B4%E5%A4%A9%E5%BD%B1%E9%99%A2.json"
     },
+
+{
+      "key": " nmsycr ",
+      "name": "👑农民影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "副标题": "☕B站【晨瑞黑科】祝您观影愉快☕+text-right\">&&</span>",
+        "线路数组": "<h3&&/h3>",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕+src=*>&&<",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗+剧情介绍：&&</p >",
+        "分类url": "https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"
+               }
+          },
 
 {
   "key": "晨瑞555",
