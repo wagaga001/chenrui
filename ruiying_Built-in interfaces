@@ -128,6 +128,28 @@
       "api": "csp_SaoHuo"
     },
 
+{
+  "key": "nfzwyscr",
+  "name": "👑奈飞中文┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": “https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E5%A5%88%E9%A3%9E%E4%B8%AD%E6%96%87.json”
+    },
+
+{
+  "key": "myyhyscr",
+  "name": "👑麻衣呀呼┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E9%BA%BB%E8%A1%A3%E5%91%80%E5%91%BC.json"
+    },
+
    {
       "key": "crttys",
       "name": "👑天天影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗┃1080P",
@@ -158,6 +180,19 @@
    "api": "csp_XBPQ",
    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E9%B8%AD%E5%A5%88%E9%A3%9E.json"
       },
+
+{
+      "key": "csp_JPYY",
+      "name": "👑文采(仅搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "jar": "./jar/xiaomi.jar;md5;5DBE8AA46395C6F5F978C05904BA1074",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    },
 
 {
     "key": "晨瑞saohuodianying",
@@ -396,18 +431,6 @@
       "filterable": 1
     },
 
-{
-      "key": "csp_JPYY",
-      "name": "👑文采(仅搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_Jpyy",
-      "jar": "./jar/xiaomi.jar;md5;5DBE8AA46395C6F5F978C05904BA1074",
-      "playerType": 1,
-      "filterable": 1,
-      "ext": ""
-    },
 
 {
     "key": "晨瑞keke",
@@ -427,6 +450,28 @@
       "api": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/drpy2.min.js",
       "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/TVB%E4%BA%91%E6%92%AD.js"
     }, 
+
+{
+   "key":"wlcaiji",
+   "name":"👑卧龙资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type":1,
+   "playUrl":"",
+   "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
+   "categories":["动作片","战争片","恐怖片","喜剧片","国产剧","海外剧"],
+   "searchable": 1,
+   "quickSearch": 1
+    },
+
+{
+   "key":"四个圈caiji",
+   "name":"👑圈圈资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type":1,
+   "playUrl":"",
+   "api":"https://pg.fenwe078.cf/api.php/provide/vod/",
+   "categories":["电影","连续剧","综艺","动漫"],
+   "searchable": 1,
+   "quickSearch": 1
+    },
 
 
 {
@@ -763,7 +808,7 @@
        },
 {
       "key": "csp_Netfixtv",
-      "name": "👑至臻4k盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "name": "👑至臻4k网盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Duopan",
       "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/ffm241025.txt",
@@ -819,6 +864,17 @@
     "filterable": 1,
     "api": "csp_XBPQ",
     "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%94%B5%E5%BD%B1%E5%85%88%E7%94%9F.json"
+    },
+
+{
+  "key": "qtyscr",
+  "name": "👑晴天影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E6%99%B4%E5%A4%A9%E5%BD%B1%E9%99%A2.json"
     },
 
 {
