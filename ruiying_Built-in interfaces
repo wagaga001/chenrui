@@ -28,7 +28,7 @@
      "name": "📁本地视频（须获取存储权限）",
      "type": 3,
      "api": "csp_Local",
-     "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/Gong_Gao_Lan.jar",
+     "jar": "./jar/Gong_Gao_Lan.jar",
      "searchable": 0,
      "quickSearch": 0,
      "filterable": 0
@@ -67,7 +67,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "order_num": 0,
-    "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E4%BA%AB%E5%90%AC%E9%9F%B3%E4%B9%90MV.js"
+    "ext": "./js/享听音乐MV.js"
     },
 
 {
@@ -90,7 +90,7 @@
       "name": "🎧酷狗音乐┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_Music",
-      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/kugou.jar",
+      "jar": "./jar/kugou.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -127,9 +127,9 @@
       "key": "csp_XYQHikerNm",
       "name": "👑糯米APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/MH.jar",
+      "jar": "./jar/MH.jar",
       "api": "csp_XYQHiker",
-      "ext": "https://git.acwing.com/chenrui/tvbox/-/raw/main/js&json&jar/%E7%B3%AF%E7%B1%B3APP.js"
+      "ext": "./js/糯米APP.js"
     },
 
 {
