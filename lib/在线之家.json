@@ -1,7 +1,0 @@
-{
-        "主页url": "https://www.zxzj123.com/",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-        "分类url": "https://www.zxzj123.com/vodtype/{cateId}-{catePg}.html",
-        "搜索url": "https://www.zxzj123.com/vodsearch/-------------.html?wd={wd}&submit=",
-        "简介": "😃公众号【晨瑞黑科】配置😃数据皆来自互联网，水印广告勿信，谨防诈骗"
-       }
