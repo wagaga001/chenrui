@@ -1,0 +1,14 @@
+{
+        "主页url":"https://www.agedm.org/",
+        "分类url":"https://www.agedm.org/catalog/all-all-all-all-all-%E7%82%B9%E5%87%BB%E9%87%8F-{catePg}-{cateId}-all-all",
+        "分类":"日漫$日本#美漫$欧美#国漫$中国",
+        "数组":"<div class=\"card cata_video_item py-4\">&&</div>",
+        "图片":"data-original=\"&&\"",
+        "标题":"title=\"&&\"",
+        "简介":"😃B站【晨瑞黑科】配置😃：嗅探不到也正常，因为AGE要手动点击才能播放",
+        "线路数组":"role=\"tablist\">&&</ul>",
+        "线路标题":"role=\"tab\">&&</button>",
+        "播放数组":"<ul class=\"video_detail_episode\">&&</ul>",
+        "播放链接":"href=\"&&\"",
+        "搜索url":"https://www.agedm.org/search?query={wd}"
+         }

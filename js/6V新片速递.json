@@ -1,0 +1,11 @@
+{
+        "主页url": "https://www.66ss.org/",
+        "分类": "关注B站[晨瑞黑科]$0#喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#动画片$donghuapian#电视剧$dianshiju#综艺$ZongYi",
+        "分类url": "https://www.66ss.org/{cateId}/",
+        "搜索url": "https://www.66ss.org/e/search/result/?searchid={id}",
+        "播放数组": "<tbody>&&</tbody>",
+        "播放链接": "href=\"&&\"",
+        "线路数组": "<tbody>&&</tbody>",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕：6V磁力在线播放",
+        "简介": "😃B站【晨瑞黑科】配置😃数据皆来自互联网，水印广告勿信，谨防诈骗：该接口其实就是新6V电影网，但作者技术不够，不知道怎么修改支持搜索id的代码，主页地址/e/search/result/?searchid=资源数字ID，这种怎么改才能支持搜索，有大佬知道吗？教教我吧😃"
+       }

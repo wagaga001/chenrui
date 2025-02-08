@@ -1,0 +1,21 @@
+{
+                   "请求头": "手机",
+                   "主页url": "https://wap.maicai.la/",
+                   "数组": "class=\"stui-vodlist clearfix\">&&</div>",
+                   "简介": "😃B站【晨瑞黑科】配置😃数据皆来自互联网，水印广告勿信，谨防诈骗： +</h3>&&</span>",
+                   "线路数组": "href=\"stui-pannel__head clearfix\"&&</li>",
+                   "线路标题": "&&",
+                   "播放数组": "class=\"stui-content__playlist clearfix\"&&</ul>",
+                   "播放列表": "<li&&</li>[不包含:дрр滈凊]",
+                   "播放标题": ">&&</a",
+                   "播放链接": "href=\"&&\"",
+                   "搜索数组": "stui-vodlist__thumb lazyload\"&&</a",
+                   "搜索图片": "data-original=\"&&\"",
+                   "搜索标题": "title=\"&&\"",
+                   "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
+                   "搜索链接": "href=\"&&\"",
+                   "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
+                   "搜索url": "https://wap.maicai.la/mcsc/-------------.html?wd={wd}&submit=",
+                   "分类": "电影$dy#电视剧$dsj#动漫$dm#综艺$zy#短剧$dj",
+                  "分类url": "https://wap.maicai.la/{cateId}_{catePg}.html"
+            }

@@ -1,0 +1,14 @@
+{
+            "数组": "<div class=\"v-item-footer\">&&<div class=\"v-item-top\">",
+            "简介": "👉数据皆来自互联网，水印广告勿信，谨防诈骗：",
+            "导演": "👉搜索好像有问题，目前不知道咋回事：",
+            "演员": "👉😃B站【晨瑞黑科】配置😃",
+            "图片": "data-original=\"&&\"",
+            "标题": "title=\"&&\"",
+            "播放链接": "href=\"&&\"",
+            "搜索url": "https://www.dushe02.com/search?os=pc&k={wd}",
+            "播放数组": "<div class=\"episode-list\"&&</div>",
+            "线路数组": "<div class=\"swiper-wrapper\">&&<div class=\"episode-box-main\">",
+            "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$6",
+            "分类url": "https://www.dushe02.com/show/{cateId}-----3-{catePg}.html"
+            }

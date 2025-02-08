@@ -1,0 +1,8 @@
+{
+        "简介": "B站【晨瑞黑科】提示您：广告勿信，谨防诈骗：+vod_content\"*\"&&\"",
+        "线路数组": "module-tab-item tab-item&&</div>",
+        "线路标题": "B站【晨瑞黑科】祝您观影愉快：叁米影视在线播放",
+        "跳转播放链接": "var player_*\"url\":\"&&\"",
+        "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
+        "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"
+      }

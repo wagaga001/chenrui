@@ -1,0 +1,10 @@
+{
+        "分类url": "https://www.qinttv.com/qtyy/{cateId}/page/{catePg}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi",
+        "搜索url": "https://www.qinttv.com/qtcz.html;post;wd={wd}&submit=",
+        "播放数组": "",
+        "线路数组": "stui-pannel-box\">&&</div>[不包含:播放线路#剧情介绍#猜你喜欢#热播榜]",
+        "线路标题": "<a>&&</a>",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗",
+        "播放链接": "href=\"&&\""
+      }

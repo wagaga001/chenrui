@@ -1,0 +1,6 @@
+{
+        "分类url": "https://auete.pro/{cateId}/index.html",
+        "分类": "电影$Movie#剧集$Tv#综艺$Zy#动漫$Dm#其他$qita",
+        "搜索url": "https://auete.com/auete4so.php?searchword={wd}",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+      }
