@@ -1,0 +1,2502 @@
+//源码包/全局设置
+{
+  "spider": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/CRHK250115.jar",
+  "logo": "https://upload-bbs.miyoushe.com/upload/2022/04/19/76104219/bee46d7d0e64cdd9288ebe648c87c9c5_8549779036269743494.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif",
+  "wallpaper": "https://bing.img.run/rand.php",
+  "warningText":"B站【晨瑞黑科】提示您：本软件既不不储存也不代理任何媒体资源，内容皆来自互联网公开爬虫数据，水印广告勿信，谨防诈骗，免费开放，仅供学习交流，不得违法商用和贩卖",
+
+//直播区
+"lives": 
+  [
+   {
+      "name": "B站【晨瑞黑科】直播源",
+      "type": 0,
+      "url": "https://gitlab.com/box_test/CR_Test/-/raw/main/IPTV.json",
+      "ua": "okhttp/4.1.0",
+      "playerType": 2,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "htp://diyp2.112114.xyz/logo/{name}.png"
+   },
+   //肥羊allinone直播
+   {
+      "name": "肥羊直播",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://gitlab.com/box_test/CR_Test/-/raw/main/%E8%82%A5%E7%BE%8A%E7%9B%B4%E6%92%AD%E4%B8%BB%E7%BA%BF.txt",
+      "ua": "okhttp/4.1.0",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/logo/tv/{name}.png"
+    },
+     {
+      "name": "牛牛直播",
+      "type": 0,
+      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+      "ua": "okhttp/4.1.0",
+      "playerType": 2,
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png"
+    },
+    {
+      "name": "宫殿V6",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://gongdian.top/tv/txt6",
+      "ua": "okhttp/4.1.0",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/logo/tv/{name}.png"
+    },
+    {
+      "name": "宫殿V4",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://gongdian.top/tv/txt",
+      "ua": "okhttp/4.1.0",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://gongdian.top/logo/tv/{name}.png"
+    },
+    {
+      "name": "肥羊-虎牙一起看",
+      "type": 0,
+      "ua": "okhttp/4.1.0",
+      "playerType": 2,
+      "url": "http://127.0.0.1:35456/huyayqk.m3u",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+    },
+    {
+      "name": "肥羊-斗鱼一起看",
+      "type": 0,
+      "ua": "okhttp/4.1.0",
+      "playerType": 2,
+      "url": "http://127.0.0.1:35456/douyuyqk.m3u",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+    },
+    {
+      "name": "肥羊-BiliBili生活",
+      "type": 0,
+      "ua": "okhttp/4.1.0",
+      "playerType": 2,
+      "url": "http://127.0.0.1:35456/bililive.m3u",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+    },
+    {
+      "name": "肥羊-YY轮播",
+      "type": 0,
+      "ua": "okhttp/4.1.0",
+      "playerType": 2,
+      "url": "http://127.0.0.1:35456/yylunbo.m3u",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
+    },
+    {
+      "name": "牛IPV4",
+      "type": 0,
+      "ua": "okhttp/4.1.0",
+      "playerType": 2,
+      "url": "https://ghfast.top/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
+      "playerType": 1,
+      "logo": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
+    },
+    {
+      "name": "牛IPV6",
+      "type": 0,
+      "ua": "okhttp/4.1.0",
+      "playerType": 2,
+      "url": "https://ghfast.top/raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "快直播",
+      "type": 0,
+      "url": "http://tv.iill.top/m3u/Live",
+      "ua": "okhttp/4.1.0",
+      "playerType": 2
+    }
+  ],
+
+
+//影视区
+"sites": 
+  [
+  {
+      "key": "doubantop",
+      "name": "🥇B站【晨瑞黑科】豆瓣热播",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+       },   
+    
+    
+    {
+     "key": "Local",
+     "name": "📁本地视频（须获取存储权限）",
+     "type": 3,
+     "api": "csp_Local",
+     "searchable": 0,
+     "quickSearch": 0,
+     "filterable": 0
+       },
+{
+            "key": "豆瓣肥羊",
+            "name": "📺肥羊直播[仅OK版]┃加载权限后设置肥羊为默认直播源",
+            "type": 3,
+            "jar": "assets://pg.jar",
+            "api": "csp_Douban",
+            "searchable": 0,
+            "changeable": 1,
+            "indexs": 1,
+            "ext": "assets://lib/tokenm.json$$$assets://lib/douban.json"
+        },
+{
+      "key": "alllive",
+      "name": "📺壹直播[仅fongmi版]┃B站【晨瑞黑科】",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/fan.txt",
+      "api": "csp_Alllive",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+
+{
+      "key": "rszb",
+      "name": "📺直播测试┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "./js/live2cms.js",
+      "ext": "./js/live2cms.json",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+
+{
+            "key": "Aid",
+            "name": "🧰急救知识┃B站【晨瑞黑科】",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            }
+           },
+
+{
+    "key": "hipy_js_KTV",
+    "name": "🎧享听音乐[不支持V5]┃B站【晨瑞黑科】",
+    "type": 3,
+    "api": "http://kxrj.site:55/lib/drpy2.min.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "order_num": 0,
+    "ext": "./js/享听音乐MV.js"
+    },
+
+{
+    "key": "kuqiMV",
+    "name": "🎵酷奇DJ┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/酷奇DJ.json"
+    },
+
+{
+      "key": "bilibiliMTV",
+      "name": "🎧哔哩音乐┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./js/MV音乐.json"
+    },
+
+{
+        "key": "jioaziysscr",
+        "name": "⏭️饺子影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/饺子APP.json"
+       },
+
+{
+            "key": "星带影视",
+            "name": "⏭️星影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "type": 3,
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="
+        },
+
+{
+            "key": "天天影视",
+            "name": "⏭️天影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "type": 3,
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "api": "csp_TTian",
+            "playerType": 1,
+            "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
+        },
+        {
+            "key": "热播影视",
+            "name": "⏭️热影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "type": 3,
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "api": "csp_TTian",
+            "playerType": 1,
+            "ext": "caHR0cDovL3YucmJvdHYuY24="
+        },
+        {
+            "key": "追剧迷",
+            "name": "⏭️追影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "type": 3,
+            "api": "csp_TTian",
+            "playerType": 1,
+            "ext": "daHR0cDovL3YubGt1eXMuY24="
+        },
+        {
+            "key": "剧评影视",
+            "name": "⏭️剧影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "type": 3,
+            "api": "csp_Jpys",
+            "playerType": 1,
+            "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ=="
+        },
+        {
+            "key": "木头影视",
+            "name": "⏭️木影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "type": 3,
+            "api": "csp_Shark",
+            "playerType": 1,
+            "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
+        },
+        {
+            "key": "世纪影视",
+            "name": "⏭️纪影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "type": 3,
+            "api": "csp_Drama",
+            "playerType": 1,
+            "ext": "saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUa3wyMQ=="
+        },
+{
+            "key": "客星影视",
+            "name": "⏭️客影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "type": 3,
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "caHR0cDovL3d3dy5kdW9kdW90di5jY3xlNDYxYzdjMGVmMGI2Y2QxfGU0NjFjN2MwZWYwYjZjZDF8NTQ0"
+        },
+
+{
+      "key": "csp_JPYY",
+      "name": "⏭️金牌APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/xiaomi.jar",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+{
+      "key": "csp_Nmvod",
+      "name": "⏭️柠檬APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/BAOHE2.jar",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
+{
+      "key": "csp_XYQHikerNm",
+      "name": "⏭️糯米APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/MH.jar",
+      "api": "csp_XYQHiker",
+      "ext": "./js/糯米APP.js"
+    },
+
+        {
+            "key": "八戒影视",
+            "name": "⏭️八影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "type": 3,
+            "api": "csp_Drama",
+            "playerType": 1,
+            "ext": "saHR0cDovLzEyNC4yMjMuMTA3LjExMjo4ODAwfFVOWVdUQ1RQTTBWWkQyWFhWWE9ZWkRZMU0wSEtNVkxUfDJDMUEwNkUxOTdFRjEwQ0YzRjYwNThDQTdBODAzQjVZfDIw"
+        },
+ {
+            "key": "雨滴影视",
+            "name": "⏭️雨影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "type": 3,
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
+        },
+        {
+            "key": "现代影视",
+            "name": "⏭️代影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "type": 3,
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "api": "csp_Xdai",
+            "playerType": 1,
+            "ext": "caHR0cHM6Ly9hcHAuYnJvdm9kLmNvbXxzemRqd2RhcHB3Y25tZGhifHN6ZGp3ZGFwcHdjbm1kaGJ8MTE0"
+        },
+     
+ {
+        "key": "csp_guaziapp",
+        "name": "⏭️瓜子APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/XW.jar",
+        "type": 3,
+        "playerType": 1,
+        "api": "csp_AppGZ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1
+        },
+
+   {
+      "key": "crgzys",
+      "name": "⏭️瓜皮APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ffm241025.txt"
+      },
+
+{
+            "key": "电影港Dygang",
+            "name": "🧲影港磁力[仅fongmi]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "type": 3,
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "api": "csp_Dygang"
+        },
+
+{
+  "key":"美剧天堂",
+  "name":"🧲美剧堂磁力[仅fongmi]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",//网站：https://www.mjttw.cc/
+  "type":3,
+  "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/meijutt.jar",
+  "api":"csp_MeijuTT",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+    },
+
+{
+        "key": "dadaguiysscr",
+        "name": "👑达达龟[仅fongmiOK版]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/达达龟.json"
+       },
+
+{
+        "key": "FreeOKysscr",
+        "name": "👑FreeOK[仅fongmiOK版]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/FreeOK影视.json"
+       },
+
+{
+      "key": "crsaohuovip",
+      "name": "👑骚火冲天┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",//ftb_XBPQ.jar或MH.jar都行，不然无法搜索
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 1,
+      "api": "csp_XBPQ",
+      "ext": "./js/烧火冲天.json"
+    },
+
+{
+        "key": "qkwysscr",
+        "name": "👑全看影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/全看影视.json"
+       },
+
+{
+        "key": "meijuttscr",
+        "name": "👑美剧天堂┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/美剧天堂.json"
+       },
+
+{
+            "key": "AI解析",
+            "name": "👑AI解析[搜索]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "type": 3,
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "api": "csp_AI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playerType": 2,
+            "ext": "faHR0cDovLzE3NS4xNzguODAuMjA5L21iL2FwaS5waHAvcHJvdmlkZS92b2QvfE1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzE1XzcpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMTkuMC4wLjAgU2FmYXJpLzUzNy4zM3xxaWFvamk="
+        },
+{
+            "key": "AI采集",
+            "name": "👑AI采集[搜索]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "type": 3,
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "api": "csp_AI",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playerType": 2,
+            "ext": "haHR0cDovLzE3NS4xNzguODAuMjA5L21iL3N4eXMvYXBpLnBocC9wcm92aWRlL3ZvZC98b2todHRwLzQuOS4xfHFpYW9qaQ=="
+             },
+    
+
+
+{
+    "key": "ntdmcr",
+    "name":"🎡NT动漫┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./js/NT动漫.json"
+      },
+{
+        "key": "omofanscr",
+        "name": "🎡OmoFuns动漫┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/OmoFans动漫.json"
+    },
+
+
+{
+    "key": "AGEdmcr",
+    "name":"🎡AGE动漫┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "./js/AGE动漫.json"
+      },
+
+ {
+      "key": "Ysjdm",
+      "name": "🎡异界动漫┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/SAOLING.jar",
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+{
+    "key": "晨瑞jcyacg",
+    "name": "🎡囧次元动漫┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/囧次元动漫.json"
+    },
+
+{
+    "key": "晨瑞yinghua",
+    "name": "🎡樱花动漫┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/樱花动漫.json"
+    },
+
+{
+      "key": "csp_Dm84",
+      "name": "🎡动漫x巴士┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Dm84",
+      "playerType": 2
+    },
+
+{
+  "key": "csp_dmbsys",
+  "name": "🎡动漫o巴士┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/动漫巴士.json"
+  },
+{
+  "key": "csp_hjbsys",
+  "name": "👑韩剧巴士┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/韩剧巴士.json"
+  },
+
+
+{
+   "key": "jpys",
+   "name": "👑荐片影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 3,
+   "api": "MJS_JPys",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "api": "./js/drpy2.min.js",
+   "ext": "./js/荐片影视.js"
+   },
+
+{
+   "key":"csp_LiteApple",
+   "name":"👑小苹果┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type":3,
+   "api":"csp_LiteApple",
+   "searchable":1,
+   "quickSearch":1,
+   "filterable":1,
+   "changeable":1
+    },
+
+{
+      "key": "csp_农民影视",
+      "name": "👑农民伯伯┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/Rebo.txt",
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+
+{
+"key":"晨瑞cz",
+"name":"👑厂长资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+"type":3,
+"api":"csp_XBPQ",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"ext":"./js/厂长资源.json"
+},
+
+{
+    "key": "晨瑞subaibai",
+    "name": "👑素白白影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/素白白影视.json"
+    },
+
+{
+    "key": "晨瑞dianyingxiansheng",
+    "name": "👑电影先生┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/电影o先生.json"
+    },
+
+{
+        "key": "dusheysscr",
+        "name": "👑毒舌影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/毒舌影视.json"
+       },
+
+{
+  "key": "晨瑞555",
+  "name": "👑555电影网┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "api": "csp_XBPQ",
+  "ext": "./js/555电影.json"
+      },
+
+{
+    "key": "csp_jpyy01",
+    "name": "👑金牌影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/金牌影院.json"
+    },
+{
+    "key": "csp_jpyy02",
+    "name": "👑爱上影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/爱上影院.json"
+    },
+{
+    "key": "csp_jpyy03",
+    "name": "👑追剧影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/追剧影院.json"
+    },
+
+{
+      "key": "tvbybcr",
+      "name": "👑TVB云播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "./js/TVB云播.json"
+    },
+
+{
+        "key": "ddjyscr",
+        "name": "👑蛋蛋剧[仅fongmi版]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/蛋蛋剧.json"
+    },
+
+{
+      "key": "DIDUANYS",
+      "name": "👑低端影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 1,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/低端影视.js"
+    }, 
+
+{
+  "key": "csp_juyeyeys",
+  "name": "👑剧爷爷[仅瑞影fongmi版]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/剧爷爷影视.json"
+    },
+
+{
+  "key": "csp_ftys",
+  "name": "👑饭团[仅瑞影fongmi版]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/饭团影视.json"
+    },
+
+
+
+{
+      "key": "csp_XSX",
+      "name": "👑讯视APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "api": "csp_Xsx",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/BH.jar",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+
+{
+  "key": "csp_hhlys",
+  "name": "👑红狐狸影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/红狐狸影院.json"
+    },
+
+{
+"key": "8号影院",
+"name": "👑八号影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "./js/八号影院.json"
+  },
+
+{
+      "key": "csp_Wwys",
+      "name": "👑特狗TV┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "playerType": 2,
+      "changeable": 0,
+      "api": "csp_Wwys",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/BH.jar",
+      "ext": "https://www.wwgz.cn/"
+    },
+
+
+{
+      "key": "csp_zhufan",
+      "name": "👑剧饭APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "csp_MiTo",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/BH.jar",
+      "ext": {
+        "url": "http://xiafan.zhuiju666.com",
+        "dataKey": "aassddwwxxllsx1x",
+        "playKey": "bbssqdbbssll25sx",
+        "version": "1.1.0"
+      }
+    },
+
+{
+      "key": "zhaixing",
+      "name": "👑摘星APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_AppZX",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/BH.jar",
+      "playerType": 1
+    },
+
+{
+      "key": "crjpmb",
+      "name": "👑金牌秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ffm241025.txt",
+      "api": "csp_Jpyy"
+    },
+
+{
+    "key": "晨瑞kmj",
+    "name": "👑看美剧┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/看美剧.json"
+    },
+
+{
+      "key": "csp_Kuaikan",
+      "name": "👑快看影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+{
+      "key": "xqdycr",
+      "name": "👑七喜电影┃B站【晨瑞黑科】水印广告勿信，谨防诈骗广",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/七喜电影.json"
+    },
+
+{
+  "key": "nfzwyscr",
+  "name": "👑奈飞中文┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/奈飞中文.json"
+    },
+
+ {
+      "key": "crsmys",
+      "name": "👑叁米影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/叁米影视.json"
+    },
+
+{
+      "key": "csp_热播影视",
+      "name": "👑热播APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_AppRB",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/Rebo.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+  {
+      "key": "348dyw",
+      "name": "👑348电影网┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/348电影网.json"
+    },
+
+
+{"key":"素白白三号",
+"name":"👑素白影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+"jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/OGe.jar",
+"type":3,"api":"csp_Subaibai",
+"searchable":1,"quickSearch":1,"filterable":1,
+"ext":"http://subaibai.com"},
+
+{"key":"1905",
+"name":"👑1905怀旧电影┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+"jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/OGe.jar",
+"type":3,"api":"csp_Web1905",
+"searchable":1,"quickSearch":1,"filterable":1},
+
+{
+      "key": "kekeyings",
+      "name": "👑KEKE影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/KEKE影视.json"
+    },
+
+
+{
+      "key": "csp_zbkys",
+      "name": "👑真不卡影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./js/真不卡影院.json"
+    },
+
+   {
+      "key": "crttys",
+      "name": "👑天天影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_TTian",
+      "playerType": 2,
+      "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/tiantian%20kexing.jar"
+    },
+
+  
+{
+   "key": "ynfys",
+   "name": "👑鸭奈飞影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "csp_XBPQ",
+   "ext": "./js/鸭奈飞.json"
+      },
+
+{
+      "key": "bpzlm2",
+      "name": "️👑白嫖者联盟2┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.qyzf88.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影&剧集&综艺&动漫&短剧",
+        "分类值": "1&2&3&4&58",
+        "类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"
+             }
+        },
+
+{
+      "key": "耐看影视",
+      "name": "👑耐看影视[不能搜索]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar":"https://gitee.com/chenrui66678/cr_-test/raw/master/jar/XY.txt",
+      "api": "csp_WebNK",
+      "quickSearch": 1,
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+
+{
+      "key": "csp_qxysys",
+      "name": "👑七新影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+      "api": "csp_XBPQ",
+      "ext": "./js/七新影视.js"
+    },
+
+
+{
+      "key": "xingchenyingshi",
+      "name": "👑星辰影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy2.min.js",
+      "ext": "./js/星辰影视.js"
+    }, 
+
+
+{
+      "key": "crbite",
+      "name": "👑比特秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ffm241025.txt",
+      "api": "csp_Bttwo"
+    },
+
+
+{
+      "key": "crqiyou",
+      "name": "👑奇优秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ffm241025.txt",
+      "api": "csp_Qiyou"
+    },
+
+{
+      "key": "wangwangmb",
+      "name": "👑旺旺秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./js/旺旺秒播.json"
+    },
+
+{
+    "key": "晨瑞chabehu",
+    "name": "👑茶杯狐(仅搜索)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "playerType": 2,
+    "api": "csp_XBPQ",
+    "ext": "./js/茶杯狐.json"
+    },
+
+{
+      "key": "mmys",
+      "name": "👑萌米影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 1,
+      "timeout": 15,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
+      "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
+    },
+
+{
+    "key": "晨瑞dashixiong",
+    "name": "👑大师兄[仅搜索]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "playerType": 2,
+    "api": "csp_XBPQ",
+    "ext": "./js/大师兄-猴哥影视.json"
+    },
+
+
+{
+  "key": "szsbb",
+  "name": "👑山寨素白白┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": 
+       {
+        "主页url":"https://www.wftfsw.com/",
+        "分类url": "https://www.wftfsw.com/jianli_show/{cateId}--hits------{catePg}---.html",
+        "分类": "电影$54#电视剧$62#综艺$69#动漫$52#短剧$74",
+        "搜索url": "",
+        "播放数组": "",
+        "线路数组": "cf81d3 pannel-box clearfix\">&&</div>",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕：",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗",
+        "播放链接": "href=\"&&\"" 
+        }
+     },
+
+{
+            "key": "奇珍异兽",
+            "name": "✳️奇珍异兽（仅V5）┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+            "type": 3,
+            "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy2.min.js",
+            "ext": "./js/奇珍异兽.js"
+        },
+
+{
+      "key": "晨瑞360ys",
+      "name": "✳️360影视(仅V5支持)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/360影视.js"
+    },
+
+{
+      "key": "晨瑞tengguan",
+      "name": "✳️腾云驾雾(仅V5支持)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "./js/腾云驾雾.js"
+    },
+
+{
+   "key":"wlcaiji",
+   "name":"👑卧龙资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type":1,
+   "playUrl":"",
+   "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
+   "categories":["动作片","战争片","恐怖片","喜剧片","国产剧","海外剧"],
+   "searchable": 1,
+   "quickSearch": 1
+    },
+
+{
+   "key":"xinlangcaiji",
+   "name":"👑新浪资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type":1,
+   "playUrl":"",
+   "api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+   "categories":["动作片","冒险片"],
+   "searchable": 1,
+   "quickSearch": 1
+    },
+
+
+{
+   "key":"量子caiji",
+   "name":"👑量子资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type":1,
+   "playUrl":"",
+   "api":"https://cj.lziapi.com/api.php/provide/vod/", 
+   "categories":["动作片","冒险片"],
+   "searchable": 1,
+   "quickSearch": 1
+    },
+
+ {
+      "key": "muercaiji",
+      "name": "👑木耳资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 1,
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 20,
+      "categories": [
+        "剧情片",
+        "动作片",
+        "冒险片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "歌舞片",
+        "战争片",
+        "经典片"
+      ],
+      "header": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
+      }
+    },
+
+{
+      "key": "aikun",
+      "name": "👑爱坤资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片"
+      ]
+    },
+
+{
+   "key": "360caiji",
+   "name": "👑360资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 1,
+   "playUrl":"",
+   "api": "https://360zy.com/api.php/provide/vod/",
+   "categories":["动作片","战争片"],
+   "searchable": 1,
+   "changeable": 1
+  },
+     
+{
+  "key": "影图",
+  "name": "👑影图资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 1,
+   "playUrl":"",
+   "api": "https://cj.vodimg.top/api.php/provide/vod/",
+   "categories":["动作片","战争片"],
+   "searchable": 1,
+   "quickSearch": 1
+     },
+
+{
+  "key":"暴风采集",
+  "name":"👑暴风资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type":1,
+  "playUrl":"",
+  "api":"https://bfzyapi.com/api.php/provide/vod/",
+  "categories":["动作片","战争片"],
+  "searchable": 1,
+  "quickSearch": 1
+    },
+
+{
+        "key": "98kds",
+        "name": "👑98观影┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+            "请求头": "手机",
+            "主页url": "http://www.98kds.com/",
+            "数组": "class=\"stui-vodlist__box\">&&</div>",
+            "简介":"😃B站【晨瑞黑科】配置😃数据皆来自互联网，水印广告勿信，谨防诈骗：+&&</a>",
+            "副标题":"<span class=\"pic-text text-right\">&&</span>",
+            "线路数组": "href=\"stui-pannel-box\"&&</li>",
+            "线路标题":  "class=\"title\">&&<",
+            "播放数组": "class=\"stui-content__playlist playlink clearfix column8\"&&</ul>",
+            "播放列表": "<li&&</li>",
+            "播放标题": ">&&</a",
+            "播放链接": "href=\"&&\"",
+            "搜索数组": "v-thumb stui-vodlist__thumb lazyload\"&&</a",
+            "搜索模式":"1",
+            "搜索图片": "data-original=\"&&\"",
+            "搜索标题": "title=\"&&\"",
+            "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
+            "搜索链接": "href=\"&&\"",
+            "搜索url": "http://www.98kds.com/search.php;post;searchword={wd}",
+            "分类": "电影$dianyingpian#电视剧$dianshiju#动漫$dongman#综艺$zongyi",
+            "分类url": "http://www.98kds.com/{cateId}/index.html"
+        }
+    },   
+
+{
+        "key": "xxyycr",
+        "name": "👑星星影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+            "请求头": "手机",
+            "主页url": "https://www.guosheji.com/",
+            "数组": "myui-vodlist__thumb&&</a>",
+            "简介":"😃B站【晨瑞黑科】配置😃数据皆来自互联网，水印广告勿信，谨防诈骗： +&&</a>",
+            "副标题":"<span class=\"pic-text text-right\">&&</span>",
+            "线路数组": "href=\"stui-pannel__head clearfix\"&&</li>",
+            "线路标题": "&&",
+            "搜索标题":"title=\"&&\"",
+            "搜索副标题":"text-right\">&&</span>",
+            "搜索图片":"data-original=\"&&\"",
+            "搜索链接":"href=\"&&\"",
+            "线路数组":"#playlist&&</li>[不包含:秒播]",
+            "线路标题":"+>&&</a>+",
+            "播放数组":"<ul class=\"myui-content__list&&</ul>",
+            "播放标题":">&&</a>[不包含:дрр滈凊]",
+            "播放列表":"<li&&</li>",
+            "跳转解析":"默认$https://jiexi.ddmz6.com/api/publicApi.php?url=",
+            "搜索url": "https://www.guosheji.com/xingsc/{wd}-------------.html",
+            "嗅探词":".m3u8#.mp4#.flv#.mp3#.m4a",
+            "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+            "分类url": "https://www.guosheji.com/xingsw/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;ak"
+        }
+    },
+
+{
+        "key": "htyycr",
+        "name": "👑海兔影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+           "请求头": "手机",
+            "主页url": "https://www.haituu.tv/",
+            "数组": "class=\"module-item\">&&</div>",
+            "图片": "src=\"&&\"",
+            "标题": "title=\"&&\"",
+            "链接": "",
+            "简介" :"😃B站【晨瑞黑科】配置😃数据皆来自互联网，水印广告勿信，谨防诈骗： +class=\"video-info-item video-info-content vod_content\">&&</span>",
+            "线路数组": "class=\"module-tab-item tab-item\"&&</div>",
+            "线路标题": "<span>&&</small>[替换:</span><small>>>(共]+集)",
+            "搜索url": "https://www.haituu.tv/vodsearch/{wd}-------------.html",
+            "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
+            "分类url": "https://www.haituu.tv/vodshow/{cateId}--------{catePg}---.html",
+            "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/"
+        }
+    },
+
+{
+        "key": "tkyscr",
+        "name": "👑泰康影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/泰康影院.json"
+    },
+
+{
+        "key": "mycycr",
+        "name": "👑麦菜[仅fongmi版]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/麦菜.json"
+    },
+
+{
+    "key": "qiyouyycr",
+    "name":"👑奇优影视[仅fongmi版]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+     "api": "csp_XBPQ",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext": "./js/奇优影视.json"
+     },
+
+{
+  "key": "csp_aueteys",
+  "name": "👑Auete影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":  "./js/Auete影视.json"
+    },
+
+  {
+    "key": "晨瑞ddzyy",
+    "name": "👑蛋蛋赞影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/蛋蛋赞.json"
+    },
+
+   {
+      "key": "范太硬Libvio",
+      "name": "👑libvio影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Libvio",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+
+  {
+    "key": "晨瑞LIBVIO",
+    "name": "👑LIBVIO(不含网盘源)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": "./js/LIBVIO影视.json"
+    },
+
+{
+      "key": "新6V",
+      "name": "👑新6V磁力┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_SixV",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.xb6v.com/"
+    },
+
+
+
+
+{
+  "key": "qtyscr",
+  "name": "👑晴天影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "./js/晴天影院.json"
+    },
+
+{
+      "key": "凡人追剧APP",
+      "name": "👑凡人追剧┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_AppFr",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+{
+      "key": " nmsycr ",
+      "name": "👑农民影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "副标题": "☕B站【晨瑞黑科】祝您观影愉快☕+text-right\">&&</span>",
+        "线路数组": "<h3&&/h3>",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕+src=*>&&<",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗+剧情介绍：&&</p >",
+        "分类url": "https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
+        "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"
+               }
+          },
+
+
+{
+      "key": "zjtv",
+      "name": "👑追剧TV┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "分类url": "https://www.8q8k.com/k/{cateId}-{catePg}.html",
+        "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+      }
+    },
+
+
+{
+      "key": "csp_河马",
+      "name": "👑河马影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.hemahe.com/tags/{cateId}-%E5%A4%A7%E9%99%86-hits------{catePg}---.html",
+        "分类": "电影&电视剧&动漫&综艺",
+        "分类值": "1&2&3&4",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+          }
+       },
+
+{
+"key":"csp_红狐狸影视",
+"name":"👑红狐狸影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+"type":3,
+"api":"csp_XBPQ",
+"ext":{
+  "分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+  "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+        },
+   
+{
+    "key": "晨瑞Freeok",
+    "name": "👑FreeOk[仅fongmi]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": 
+       {
+        "分类url":"https://www.freeok.lol/vodshow/by/hits/id/{cateId}/page/{catePg}.html",
+        "分类":"电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$shuangju",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+       }
+    },
+{
+    "key": "晨瑞ruyi",
+    "name": "👑如意电影┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": 
+       {
+        "分类url":"https://ruyiys.com/index.php/vod/show/id/{cateId}.html",
+        "分类":"电影$6#电视剧$1#动漫$7#综艺$8#纪录片$9",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+       }
+    },
+
+{
+    "key": "晨瑞woniu",
+    "name": "👑蜗牛影视┃B站【晨瑞黑科】240901配置更新,广告勿信",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": 
+       {
+        "分类url":"https://wniutv.com/wnys/{cateId}.html",
+        "分类":"电影$dianying#电视剧$dianshiju#动漫$dongmna#综艺$zongyi#纪录片$jilupian#动作片$dzp#科幻片$khp#战争片$zzp#恐怖片$kbp#喜剧片$xjp#爱情片$aqp#剧情片$jqp#国产剧$gcj#港台剧$gtj#日韩剧$rhj#海外剧$hwj",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+       }
+    },
+
+{
+    "key": "晨瑞77",
+    "name": "👑七七电影┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": 
+       {
+        "分类url":"https://www.77ys.live/vodshow/{cateId}------{catePg}-{year}.html",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+       }
+    },
+
+
+{
+    "key": "晨瑞vidhub",
+    "name": "👑hub影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+    "ext": 
+       {
+        "分类url":"https://vidhub4.cc/vodtype/{cateId}.html",
+        "分类":"电影$1#连续剧$2#综艺$3#动漫$4",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+       }
+    },
+
+{
+   "key": "晨瑞皮皮",
+   "name": "👑皮皮影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "csp_XBPQ",
+  "ext": 
+       {
+        "分类url":"https://www.pipiys1.com/vodshow/{cateId}--hits------{catePg}---.html",
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
+        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "简介": "😃B站【晨瑞黑科】配置😃水印广告勿信，谨防诈骗"
+        }
+      },
+
+{
+      "key": "玩偶",
+      "name": "🌥️玩偶哥哥4K┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/wanougege.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      }
+    },
+
+{
+    "key": "夸克蜡笔弹幕",
+    "name": "🌥️蜡笔4K网盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "api": "csp_Wobg",
+    "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/danmu.php",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "site": "http://labipan.com/",
+           "danmu": true
+         }
+      },
+
+   {
+    "key": "夸克云星弹幕",
+    "name": "🌥️云星4K网盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+    "type": 3,
+    "api": "csp_Wobg",
+    "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/danmu.php",
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1,
+    "ext": {
+           "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+           "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+           "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+           "site": "https://4k.4u4.cn",
+           "danmu": true
+         }
+       },
+{
+      "key": "csp_Netfixtv",
+      "name": "🌥️至臻4k网盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "api": "csp_Duopan",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ffm241025.txt",
+      "filterable": 1,
+      "ext": "http://mpanso.com"
+    },
+
+{
+      "key": "Bili",
+      "name": "👑哔哩哔哩┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./js/哔哩哔哩.json"
+    },
+   
+  {
+      "key": "xyduanju",
+      "name": "👑星芽短剧┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/PA.jar",
+      "type": 3,
+      "api": "csp_AppXY",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+  
+  {
+      "key": "csp_YouShengBook",
+      "name": "📖老白听书┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FM.txt",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_LaoBaiBook",
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+
+    {
+      "key": "kuake搜",
+      "name": "夸克盘搜A┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
+    {
+      "key": "夸ke搜",
+      "name": "夸克盘搜B┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "YiSo",
+      "name": "阿里盘搜A┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_YiSo",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "PanSearch",
+      "name": "阿里盘搜B┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY.txt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+
+{
+      "key": "dr_兔小贝",
+      "name": "💯儿童启蒙┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy2.min.js",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "./js/儿童启蒙.js"
+    },
+    {
+      "key": "少儿教育",
+      "name": "💯少儿教育┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "./js/少儿教育.json"
+    },
+    {
+      "key": "小学课堂",
+      "name": "💯小学课堂┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "./js/小学课堂.json"
+    },
+    {
+      "key": "初中课堂",
+      "name": "💯初中课堂┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "./js/初中课堂.json"
+    },
+    {
+      "key": "高中教育",
+      "name": "💯高中课堂┃B站【晨瑞黑科】",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "./js/高中课堂.json"
+    }
+
+  ],
+
+
+
+//解析接口
+"parses": 
+  [
+     {
+            "name": "虾米解析A",
+            "type": 0,
+            "url": "https://jx.xmflv.cc/?url="
+        },
+     {
+            "name": "虾米解析B",
+            "type": 0,
+            "url": "https://dm.xmflv.com:4433/?url="
+        },
+    {
+            "name": "虾米解析C",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="    
+        },
+{
+            "name": "jiqiao解析",
+            "type": 0,
+            "url": "https://zy.qiaoji8.com/neibu.php?url="    
+        },
+{
+            "name": "qiaoji解析",
+            "type": 0,
+            "url": "https://zy.qiaoji8.com/gouzi.php?url="    
+        },
+     {
+            "name": "夜幕解析",
+            "type": 0,
+            "url": "https://www.yemu.xyz/?url="    
+        },
+
+    {
+      "name": "8090g解析",
+      "url": "https://www.8090g.cn/jiexi/?url=",
+      "type": 0,
+      "ext": {
+      "flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]
+             },
+      "header": {"User-Agent": "Mozilla/5.0"}
+      },
+
+   {
+      "name": "邦宁解析",
+      "url": "https://video.isyour.love/player/getplayer?url=",
+      "type": 0
+    },
+
+    {
+      "name": "ik9",
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "杰森",
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "阳途",
+      "url": "https://jx.yangtu.top/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "冰豆",
+      "url": "https://bd.jx.cn/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "m3u8TV",
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "听乐",
+      "url": "https://jx.dj6u.com/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "虾米2",
+      "url": "https://jx.xmflv.cc/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "云析",
+      "url": "https://jx.yparse.com/index.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "红狐",
+      "url": "https://player.mrgaocloud.com/player/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    }
+
+  ],
+
+
+  
+
+  
+  //过滤切片广告
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "proxy",
+      "hosts": [
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        ".*ulivetv.*",
+        "mypikpak.com",
+        ".*workers.dev",
+        "www.cilixiong.com",
+        "*.t4tv.hz.cz",
+        "kuba222.com",
+        "mp4us.com",
+        "dydhhy.com",
+        "magicalsearch.top",
+        "api123.adys.app",
+        "raw.githubusercontent.com",
+        "googlevideo.com",
+        "cdn.v82u1l.com",
+        "cdn.iz8qkg.com",
+        "cdn.kin6c1.com",
+        "c.biggggg.com",
+        "c.olddddd.com",
+        "haiwaikan.com",
+        "www.histar.tv",
+        "youtube.com",
+        "uhibo.com",
+        ".*boku.*",
+        ".*nivod.*",
+        ".*ulivetv.*"
+      ]
+    },
+
+   {
+      "name": "磁力廣告",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "更多",
+        "社區",
+        "xuu",
+        "最新",
+        "最新",
+        "直播",
+        "更新",
+        "社区",
+        "有趣",
+        "有趣",
+        "英皇体育",
+        "全中文AV在线",
+        "澳门皇冠赌场",
+        "哥哥快来",
+        "美女荷官",
+        "裸聊",
+        "新片首发",
+        "UUE29"
+      ]
+    },
+    
+    {
+      "name": "海外看┃B站【晨瑞黑科】",
+      "hosts": [
+        "haiwaikan"
+      ],
+      "regex": [
+        "8.1748",
+        "10.0099",
+        "10.3333"
+      ]
+    },
+    {
+      "name": "暴风廣告┃B站【晨瑞黑科】",
+      "hosts": [
+        "bfzy",
+        "s5.bfzycdn"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "星星┃B站【晨瑞黑科】",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "量子廣告",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡廣告",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "火山嗅探",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "抖音嗅探",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    }
+  ],
+  "flags": [
+    "优酷视频",
+    "youku",
+    "优酷",
+    "优 酷",
+    "优酷视频",
+    "qq",
+    "腾讯",
+    "腾 讯",
+    "腾讯视频",
+    "iqiyi",
+    "qiyi",
+    "奇艺",
+    "爱奇艺",
+    "爱 奇 艺",
+    "m1905",
+    "xigua",
+    "letv",
+    "leshi",
+    "乐视",
+    "乐 视",
+    "sohu",
+    "搜狐",
+    "搜 狐",
+    "搜狐视频",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "芒果",
+    "imgo",
+    "芒果TV",
+    "芒 果 T V",
+    "bilibili",
+    "哔 哩",
+    "哔 哩 哔 哩"
+  ],
+  "ads": [
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "video.bj.bcebos.com",
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+  ]
+}
