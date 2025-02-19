@@ -1,11 +1,11 @@
  {
-        "主页url": "https://www.subaibaiys.com/",
+        "主页url": "https://www.subaibai.com/",
         "分类": "关注B站[晨瑞黑科]$0#电影$new-movie#电视剧$tv-drama#热门电影$hot-month#高分电影$high-movie#动漫电影$cartoon-movie#香港经典电影$hongkong-movie#国产剧$domestic-drama#欧美剧$american-drama#韩剧$korean-drama",
-        "分类url": "https://www.subaibaiys.com/{cateId}/page/{catePg}",
-        "搜索url": "https://www.subaibaiys.com/?s={wd}",
+        "分类url": "https://www.subaibai.com/{cateId}/page/{catePg}",
+        "搜索url": "https://www.subaibai.com/search?q={wd}",
         "播放数组": "paly_list_btn\">&&</div>",
         "播放链接": "href=\"&&\"",
         "线路数组": "mi_paly_box\">&&</div>",
-        "线路标题": "☕B站【晨瑞黑科】祝您观影愉快☕",
+        "线路标题": "☕素白白☕",
         "简介": "😃B站【晨瑞黑科】配置😃数据皆来自互联网，水印广告勿信，谨防诈骗: +yp_context\">&&</div>"
        }
