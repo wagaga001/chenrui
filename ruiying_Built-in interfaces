@@ -11,7 +11,7 @@
    {
       "name": "B站【晨瑞黑科】直播源",
       "type": 0,
-      "url": "https://gitlab.com/box_test/CR_Test/-/raw/main/IPTV.json",
+      "url": "./IPTV",
       "ua": "okhttp/4.1.0",
       "playerType": 2,
       "epg": "https://epg.crestekk.cn/api/diyp/?ch={name}&date={date}",
@@ -19,10 +19,10 @@
    },
    //肥羊allinone直播
    {
-      "name": "肥羊轮播",
+      "name": "./肥羊轮播",
       "type": 0,
       "playerType": 2,
-      "url": "https://gitlab.com/box_test/CR_Test/-/raw/main/%E8%82%A5%E7%BE%8A%E7%9B%B4%E6%92%AD%E4%B8%BB%E7%BA%BF.txt",
+      "url": "https://tvbox.chenrui.ip-ddns.com/肥羊直播主线",
       "ua": "okhttp/4.1.0",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://gongdian.top/logo/tv/{name}.png"
