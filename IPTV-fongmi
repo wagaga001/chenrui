@@ -4,96 +4,23 @@
     {
       "name": "B站【晨瑞黑科】直播源",
       "type": 0,
-      "url": "https://gitlab.com/box_test/CR_Test/-/raw/main/IPTV.json",
+      "url": "https://tvbox.chenrui.ip-ddns.com/IPTV",
       "playerType": 2,
       "ua": "okhttp/4.1.0",
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "htp://diyp2.112114.xyz/logo/{name}.png"
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://cr.chenrui.us.kg/关注B站[晨瑞黑科]获取更多福利/TV-Logo/{name}.png"
    },
    //肥羊allinone直播
    {
       "name": "肥羊直播",
       "type": 0,
       "playerType": 2,
-      "url": "https://gitlab.com/box_test/CR_Test/-/raw/main/%E8%82%A5%E7%BE%8A%E7%9B%B4%E6%92%AD%E4%B8%BB%E7%BA%BF.txt",
+      "url": "https://tvbox.chenrui.ip-ddns.com/肥羊直播主线",
       "ua": "okhttp/4.1.0",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://gongdian.top/logo/tv/{name}.png"
+      "logo": "https://cr.chenrui.us.kg/关注B站[晨瑞黑科]获取更多福利/TV-Logo/{name}.png"
     },
-     {
-      "name": "牛牛直播",
-      "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
-      "playerType": 2,
-      "ua": "okhttp/4.1.0",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png"
-    },
-    {
-      "name": "宫殿V6",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://gongdian.top/tv/txt6",
-      "ua": "okhttp/4.1.0",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://gongdian.top/logo/tv/{name}.png"
-    },
-    {
-      "name": "宫殿V4",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://gongdian.top/tv/txt",
-      "ua": "okhttp/4.1.0",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo": "https://gongdian.top/logo/tv/{name}.png"
-    },
-    {
-      "name": "肥羊-虎牙一起看",
-      "type": 0,
-      "playerType": 2,
-      "ua": "okhttp/4.1.0",
-      "url": "http://127.0.0.1:35456/huyayqk.m3u",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
-      "name": "肥羊-斗鱼一起看",
-      "type": 0,
-      "ua": "okhttp/4.1.0",
-      "playerType": 2,
-      "url": "http://127.0.0.1:35456/douyuyqk.m3u",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
-      "name": "肥羊-BiliBili生活",
-      "type": 0,
-      "ua": "okhttp/4.1.0",
-      "playerType": 2,
-      "url": "http://127.0.0.1:35456/bililive.m3u",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
-      "name": "肥羊-YY轮播",
-      "type": 0,
-      "ua": "okhttp/4.1.0",
-      "playerType": 2,
-      "url": "http://127.0.0.1:35456/yylunbo.m3u",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-    },
-    {
-      "name": "牛IPV4",
-      "type": 0,
-      "ua": "okhttp/4.1.0",
-      "url": "https://ghfast.top/raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
-      "playerType": 2,
-      "logo": "https://ghfast.top/raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/{name}.png"
-    },
-    {
-      "name": "牛IPV6",
-      "type": 0,
-      "ua": "okhttp/4.1.0",
-      "url": "https://ghfast.top/raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u",
-      "playerType": 2
-    },
+     
     {
       "name": "快直播",
       "type": 0,
