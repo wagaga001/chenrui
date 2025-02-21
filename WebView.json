@@ -1,0 +1,455 @@
+[
+{
+    "name": "CCTV-4K超清",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002264"
+         ]
+    },
+{
+    "name": "CCTV-8K超清",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://sns-video-bd.xhscdn.com/stream/110/258/01e6f387f1a4c5d60103700192274c335f_258.mp4"
+         ]
+    },
+{
+    "name": "CCTV-综合",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://tv.cctv.com/live/cctv1/?spm=C28340.PTEkg7XmjUgN.ExidtyEJcS5K.1"
+         ]
+    },
+{
+    "name": "CCTV-财经",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001800"
+         ]
+    },
+{
+    "name": "CCTV-中文",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001814"
+         ]
+    },
+{
+    "name": "CCTV-体育[限时开放]",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001818"
+         ]
+    },
+{
+    "name": "CCTV-赛事[限时开放]",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001817"
+         ]
+    },
+{
+    "name": "CCTV-电影[限时开放]",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600108442"
+         ]
+    },
+{
+    "name": "CCTV-军事",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600004092"
+         ]
+    },
+{
+    "name": "CCTV-剧集[限时开放]",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001803"
+         ]
+    },        
+{
+    "name": "CCTV-记录",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600004078"
+         ]
+    },
+{
+    "name": "CCTV-科技",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001805"
+         ]
+    },
+{
+    "name": "CCTV-戏曲",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001806"
+         ]
+    },
+{
+    "name": "CCTV-社会",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001807"
+         ]
+    },
+{
+    "name": "CCTV-新闻",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001811"
+         ]
+    },
+{
+    "name": "CCTV-少儿",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001809"
+         ]
+    },            
+{
+    "name": "CCTV-音乐",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001815"
+         ]
+    },
+{
+    "name": "CCTV-农业",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600001810"
+         ]
+    },
+{
+    "name": "CGTN",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600014550"
+         ]
+    },
+{
+    "name": "CGTN-法语",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600084704"
+         ]
+    },
+{
+    "name": "CGTN-俄语",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600084758"
+         ]
+    },
+{
+    "name": "CGTN-阿拉伯语",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600084782"
+         ]
+    },
+{
+    "name": "CGTN-西班牙语",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600084744"
+         ]
+    },
+{
+    "name": "CGTN-记录",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600084781"
+         ]
+    },
+{
+    "name": "风云剧场[限时开放]",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600099658"
+         ]
+    },
+{
+    "name": "第一剧场[限时开放]",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600099655"
+         ]
+    },
+{
+    "name": "怀旧剧场[限时开放]",
+    "groupName": "央视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600099620"
+         ]
+    }, 
+
+
+{
+    "name": "湖北卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002508"
+         ]
+    }, 
+{
+    "name": "北京卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002309"
+         ]
+    },
+{
+    "name": "江苏卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002521"
+         ]
+    },
+{
+    "name": "东方卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002483"
+         ]
+    },
+{
+    "name": "浙江卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002520"
+         ]
+    },
+{
+    "name": "湖南卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002475"
+         ]
+    },
+{
+    "name": "广东卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002485"
+         ]
+    },
+{
+    "name": "广西卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002509"
+         ]
+    },
+{
+    "name": "黑龙江卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002498"
+         ]
+    },
+{
+    "name": "海南卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002506"
+         ]
+    },
+{
+    "name": "重庆卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002531"
+         ]
+    },
+{
+    "name": "深圳卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002481"
+         ]
+    },
+{
+    "name": "四川卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002516"
+         ]
+    },
+{
+    "name": "河南卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002525"
+         ]
+    },
+{
+    "name": "东南卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002484"
+         ]
+    },   
+{
+    "name": "贵州卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002490"
+         ]
+    },
+{
+    "name": "江西卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002503"
+         ]
+    },
+{
+    "name": "辽宁卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002505"
+         ]
+    },
+{
+    "name": "安徽卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002532"
+         ]
+    },
+{
+    "name": "河北卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002493"
+         ]
+    },
+{
+    "name": "山东卫视",
+    "groupName": "卫视频道",
+    "urls": 
+         [
+          "https://www.yangshipin.cn/tv/home?pid=600002513"
+         ]
+    },
+{
+    "name": "哈哈炫动",
+    "groupName": "地方频道",
+    "urls": 
+         [
+          "https://live.kankanews.com/huikan?id=9"
+         ]
+    },
+{
+    "name": "第一财经",
+    "groupName": "地方频道",
+    "urls": 
+         [
+          "https://live.kankanews.com/huikan?id=5"
+         ]
+    },
+{
+    "name": "五星体育",
+    "groupName": "地方频道",
+    "urls": 
+         [
+          "https://live.kankanews.com/huikan?id=10"
+         ]
+    },
+{
+    "name": "嘉佳卡通",
+    "groupName": "地方频道",
+    "urls": 
+         [
+          "https://www1.gdtv.cn/tvChannelDetail/66"
+         ]
+    },
+{
+    "name": "荔枝少儿",
+    "groupName": "地方频道",
+    "urls": 
+         [
+          "https://www1.gdtv.cn/tvChannelDetail/54"
+         ]
+    },
+{
+    "name": "浙江卫视",
+    "groupName": "地方频道",
+    "urls": 
+         [
+          "https://www.cztv.com/liveTV/101"
+         ]
+    },
+{
+    "name": "东南卫视",
+    "groupName": "地方频道",
+    "urls": 
+         [
+          "https://live.fjtv.net/setv/"
+         ]
+    },
+{
+    "name": "北京卫视",
+    "groupName": "地方频道",
+    "urls": 
+         [
+          "https://www.brtn.cn/btv/btvsy_index"
+         ]
+    }
+    
+    
+]                            
+ 
