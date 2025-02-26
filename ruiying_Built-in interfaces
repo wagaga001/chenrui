@@ -15,7 +15,7 @@
       "ua": "okhttp/4.1.0",
       "playerType": 1,
       "epg": "https://epg.crestekk.cn/api/diyp/?ch={name}&date={date}",
-      "logo": "https://cr.chenrui.us.kg/关注B站[晨瑞黑科]获取更多福利/TV-Logo/{name}.png"
+      "logo": "https://cr.chenrui.us.kg/关注B站[晨瑞黑科]获取更多福利/TV-LOGO/{name}.png"
    },
    //肥羊allinone直播
    {
