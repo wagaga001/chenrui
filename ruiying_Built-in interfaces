@@ -13,7 +13,7 @@
       "type": 0,
       "url": "./IPTV",
       "ua": "okhttp/4.1.0",
-      "playerType": 2,
+      "playerType": 1,
       "epg": "https://epg.crestekk.cn/api/diyp/?ch={name}&date={date}",
       "logo": "https://cr.chenrui.us.kg/关注B站[晨瑞黑科]获取更多福利/TV-Logo/{name}.png"
    },
@@ -21,7 +21,7 @@
    {
       "name": "肥羊轮播",
       "type": 0,
-      "playerType": 2,
+      "playerType": 1,
       "url": "./肥羊直播主线",
       "ua": "okhttp/4.1.0",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
@@ -33,7 +33,7 @@
       "type": 0,
       "url": "http://tv.iill.top/m3u/Live",
       "ua": "okhttp/4.1.0",
-      "playerType": 2
+      "playerType": 1
     }
   ],
 
