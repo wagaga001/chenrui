@@ -337,7 +337,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "api": "./js/drpy2.min.js",
+   "api": "./lib/drpy2.min.js",
    "ext": "./js/荐片影视.js"
    },
 
