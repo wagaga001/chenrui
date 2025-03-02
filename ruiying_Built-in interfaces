@@ -306,6 +306,17 @@
   "quickSearch":1,
   "filterable":1
     },
+{
+        "key": "tv121yy",
+        "name": "👑TV121影院┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+        "type": 3,
+        "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+        "api": "csp_XBPQ",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "./js/TV121影院.json"
+       },
 
 {
    "key": "jpys",
