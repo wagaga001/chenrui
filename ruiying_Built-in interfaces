@@ -331,6 +331,19 @@
    },
 
 {
+      "key": "csp_CZSPP",
+      "name": "👑厂长o资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+      "type": 3,
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+      "api": "csp_Czsapp",
+      "searchable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "maHR0cHM6Ly93d3cuY3p6eTc3LmNvbS8="
+    },
+
+{
 "key":"晨瑞cz",
 "name":"👑厂长资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
 "type":3,
