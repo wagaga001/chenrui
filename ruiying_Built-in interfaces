@@ -134,6 +134,17 @@
       "changeable": 0,
       "ext": "./js/MV音乐.json"
     },
+{
+   "key": "guaziappys",
+   "name": "⏭️嗑瓜子APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
+   "type": 3,
+   "api": "csp_XBPQ",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "api": "./js/drpy2.min.js",
+   "ext": "./js/嗑瓜子.js"
+   },
 
 {
         "key": "jioaziysscr",
