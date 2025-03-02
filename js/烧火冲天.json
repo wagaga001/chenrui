@@ -1,6 +1,6 @@
 {
-            "主页url": "https://saohuo.tv/",
-            "搜索url": "https://saohuo.tv/search.php?searchword={wd}",
+            "主页url": "https://shdy5.us/",
+            "搜索url": "https://shdy5.us/search.php?searchword={wd}",
             "数组": "<li>&&</li>",
             "简介": "😃B站【晨瑞黑科】配置😃数据皆来自互联网，水印广告勿信，谨防诈骗：",
             "图片": "data-original=\"&&\"",
@@ -8,5 +8,5 @@
             "播放链接": "href=\"&&\"",
             "倒序播放": "1",
             "分类": "关注B站【晨瑞黑科】$1#电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
-            "分类url": "https://saohuo.tv/list/{cateId}-{catePg}.html"
+            "分类url": "https://shdy5.us/list/{cateId}-{catePg}.html"
         }
