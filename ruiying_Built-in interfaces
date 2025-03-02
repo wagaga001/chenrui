@@ -959,7 +959,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy2.min.js",
+      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/js/drpy2.min.js",
       "ext": "./js/星辰影视.js"
     }, 
 
@@ -1058,7 +1058,7 @@
             "key": "奇珍异兽",
             "name": "✳️奇珍异兽（仅V5）┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
             "type": 3,
-            "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy2.min.js",
+            "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/js/drpy2.min.js",
             "ext": "./js/奇珍异兽.js"
         },
 
@@ -1066,7 +1066,7 @@
       "key": "晨瑞360ys",
       "name": "✳️360影视(仅V5支持)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy2.min.js",
+      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1078,7 +1078,7 @@
       "key": "晨瑞tengguan",
       "name": "✳️腾云驾雾(仅V5支持)┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy2.min.js",
+      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1725,7 +1725,7 @@
       "key": "dr_兔小贝",
       "name": "💯儿童启蒙┃B站【晨瑞黑科】",
       "type": 3,
-      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy2.min.js",
+      "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/js/drpy2.min.js",
       "searchable": 0,
       "changeable": 0,
       "style": {
