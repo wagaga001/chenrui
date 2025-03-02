@@ -142,7 +142,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "api": "./js/drpy3.min.js",
+   "api": "https://gitee.com/chenrui66678/cr_-test/raw/master/diyp/drpy4.min.js",
    "ext": "./js/嗑瓜子.js"
    },
 
