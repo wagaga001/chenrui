@@ -142,7 +142,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "api": "https://gitee.com/hu-congrong/lxbsc/raw/main/libs/drpy2.min.js",
+   "api": "./drpy/drpy3.min.js",
    "ext": "./js/嗑瓜子.js"
    },
 
