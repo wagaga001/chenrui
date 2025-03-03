@@ -1,6 +1,6 @@
 //源码包/全局设置
 {
-  "spider": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/CRHK250220.jar",
+  "spider": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/CRHK250220.jar",
   "logo": "https://upload-bbs.miyoushe.com/upload/2022/04/19/76104219/bee46d7d0e64cdd9288ebe648c87c9c5_8549779036269743494.gif?x-oss-process=image/auto-orient,0/interlace,1/format,gif",
   "wallpaper": "https://bing.img.run/rand.php",
   "warningText":"B站【晨瑞黑科】提示您：本软件既不不储存也不代理任何媒体资源，内容皆来自互联网公开爬虫数据，水印广告勿信，谨防诈骗，免费开放，仅供学习交流，不得违法商用和贩卖",
@@ -76,7 +76,7 @@
       "key": "alllive",
       "name": "📺壹直播[仅fongmi版]┃B站【晨瑞黑科】",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/fan.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/fan.jar",
       "api": "csp_Alllive",
       "playerType": 2,
       "searchable": 0,
@@ -149,7 +149,7 @@
 {
         "key": "jioaziysscr",
         "name": "⏭️饺子影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-        "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+        "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ftb_XBPQ.jar",
         "type": 3,
         "api": "csp_XBPQ",
         "searchable": 1,
@@ -162,7 +162,7 @@
       "key": "csp_Hudie",
       "name": "⏭️蝴蝶APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
       "api": "csp_Hudie",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
@@ -172,7 +172,7 @@
             "key": "星带影视",
             "name": "⏭️星影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
             "type": 3,
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "api": "csp_Xdai",
             "playerType": 1,
             "ext": "jaHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMnwxMzQ="
@@ -182,7 +182,7 @@
             "key": "天天影视",
             "name": "⏭️天影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
             "type": 3,
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "api": "csp_TTian",
             "playerType": 1,
             "ext": "baHR0cDovL3R0LnlzZHFqcy5jbg=="
@@ -191,7 +191,7 @@
             "key": "热播影视",
             "name": "⏭️热影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
             "type": 3,
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "api": "csp_TTian",
             "playerType": 1,
             "ext": "caHR0cDovL3YucmJvdHYuY24="
@@ -199,7 +199,7 @@
         {
             "key": "追剧迷",
             "name": "⏭️追影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "type": 3,
             "api": "csp_TTian",
             "playerType": 1,
@@ -208,7 +208,7 @@
         {
             "key": "剧评影视",
             "name": "⏭️剧影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "type": 3,
             "api": "csp_Jpys",
             "playerType": 1,
@@ -217,7 +217,7 @@
         {
             "key": "木头影视",
             "name": "⏭️木影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "type": 3,
             "api": "csp_Shark",
             "playerType": 1,
@@ -227,7 +227,7 @@
 {
             "key": "客星影视",
             "name": "⏭️客影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "type": 3,
             "api": "csp_Xdai",
             "playerType": 1,
@@ -241,7 +241,7 @@
       "searchable": 1,
       "changeable": 1,
       "api": "csp_Jpyy",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/xiaomi.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/xiaomi.jar",
       "playerType": 1,
       "filterable": 1,
       "ext": ""
@@ -249,7 +249,7 @@
 {
       "key": "csp_Nmvod",
       "name": "⏭️柠檬APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/BAOHE2.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/BAOHE2.jar",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 2,
@@ -259,7 +259,7 @@
       "key": "csp_XYQHikerNm",
       "name": "⏭️糯米APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/MH.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/MH.jar",
       "api": "csp_XYQHiker",
       "ext": "./js/糯米APP.js"
     },
@@ -268,7 +268,7 @@
             "key": "现代影视",
             "name": "⏭️代影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
             "type": 3,
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "api": "csp_Xdai",
             "playerType": 1,
             "ext": "caHR0cHM6Ly94ZHlzLnZpcC9nZXRhcHAudHh0fHN6ZGp3ZGFwcHdjbm1kaGJ8c3pkandkYXBwd2NubWRoYnwxMTQ="
@@ -277,7 +277,7 @@
  {
         "key": "csp_guaziapp",
         "name": "⏭️瓜子APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-        "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/XW.jar",
+        "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/XW.jar",
         "type": 3,
         "playerType": 1,
         "api": "csp_AppGZ",
@@ -296,14 +296,14 @@
       "changeable": 1,
       "playerType": 2,
       "timeout": 30,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ffm241025.jar"
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ffm241025.jar"
       },
 
 {
             "key": "电影港Dygang",
             "name": "🧲影港磁力[仅fongmi]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
             "type": 3,
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "api": "csp_Dygang"
         },
 
@@ -311,7 +311,7 @@
   "key":"美剧天堂",
   "name":"🧲美剧堂磁力[仅fongmi]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",//网站：https://www.mjttw.cc/
   "type":3,
-  "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/meijutt.jar",
+  "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/meijutt.jar",
   "api":"csp_MeijuTT",
   "searchable":1,
   "quickSearch":1,
@@ -345,7 +345,7 @@
       "key": "csp_CZSPP",
       "name": "👑厂长o资源┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
       "api": "csp_Czsapp",
       "searchable": 1,
       "playerType": 1,
@@ -391,7 +391,7 @@
         "key": "dusheysscr",
         "name": "👑毒舌影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
         "type": 3,
-        "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+        "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ftb_XBPQ.jar",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
@@ -541,7 +541,7 @@
       "key": "crsaohuovip",
       "name": "👑骚火冲天┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",//ftb_XBPQ.jar或MH.jar都行，不然无法搜索
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ftb_XBPQ.jar",//ftb_XBPQ.jar或MH.jar都行，不然无法搜索
       "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
       "searchable": 1,
       "quickSearch": 1,
@@ -557,14 +557,14 @@
       "api": "csp_TTian",
       "playerType": 2,
       "ext": "baHR0cDovL29wLnlzZHFqcy5jbg==",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/tiantian%20kexing.jar"
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/tiantian%20kexing.jar"
     },
 {
       "key": "csp_热播影视",
       "name": "👑热播影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_AppRB",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/Rebo.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/Rebo.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -597,7 +597,7 @@
       "key": "xpg",
       "name": "👑新苹果┃B站【晨瑞黑科】神秘的哥哥们",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY0218.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/FTY0218.jar",
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
@@ -608,7 +608,7 @@
       "key": "ngdx",
       "name": "👑新南瓜┃B站【晨瑞黑科】神秘的哥哥们",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY0218.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/FTY0218.jar",
       "api": "csp_NanGua",
       "timeout": 15,
       "playerType": 2,
@@ -655,7 +655,7 @@
       "key": "Ysjdm",
       "name": "🎡异界动漫┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/SAOLING.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/SAOLING.jar",
       "api": "csp_Ysj",
       "searchable": 1,
       "quickSearch": 1,
@@ -717,7 +717,7 @@
             "key": "AI解析",
             "name": "👑AI解析[搜索]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
             "type": 3,
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "api": "csp_AI",
             "searchable": 1,
             "quickSearch": 1,
@@ -729,7 +729,7 @@
             "key": "AI采集",
             "name": "👑AI采集[搜索]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
             "type": 3,
-            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/QIAOJI.jar",
+            "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
             "api": "csp_AI",
             "searchable": 1,
             "quickSearch": 1,
@@ -746,7 +746,7 @@
       "changeable": 1,
       "quickSearch": 1,
       "api": "csp_Xsx",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/BH.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/BH.jar",
       "playerType": 1,
       "filterable": 1,
       "ext": ""
@@ -781,7 +781,7 @@
       "playerType": 2,
       "changeable": 0,
       "api": "csp_Wwys",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/BH.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/BH.jar",
       "ext": "https://www.wwgz.cn/"
     },
 
@@ -793,7 +793,7 @@
       "quickSearch": 1,
       "type": 3,
       "api": "csp_MiTo",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/BH.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/BH.jar",
       "ext": {
         "url": "http://xiafan.zhuiju666.com",
         "dataKey": "aassddwwxxllsx1x",
@@ -807,7 +807,7 @@
       "name": "👑摘星APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_AppZX",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/BH.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/BH.jar",
       "playerType": 1
     },
 
@@ -815,7 +815,7 @@
       "key": "crjpmb",
       "name": "👑金牌秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ffm241025.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ffm241025.jar",
       "api": "csp_Jpyy"
     },
 
@@ -886,7 +886,7 @@
 
 {"key":"1905",
 "name":"👑1905怀旧电影┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-"jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/OGe.jar",
+"jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/OGe.jar",
 "type":3,"api":"csp_Web1905",
 "searchable":1,"quickSearch":1,"filterable":1},
 
@@ -933,7 +933,7 @@
       "key": "耐看影视",
       "name": "👑耐看影视[不能搜索]┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar":"https://gitee.com/chenrui66678/cr_-test/raw/master/jar/XY.jar",
+      "jar":"https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/XY.jar",
       "api": "csp_WebNK",
       "quickSearch": 1,
       "searchable": 1,
@@ -946,7 +946,7 @@
       "key": "csp_qxysys",
       "name": "👑七新影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ftb_XBPQ.jar",
       "api": "csp_XBPQ",
       "ext": "./js/七新影视.js"
     },
@@ -955,7 +955,7 @@
 {
       "key": "xingchenyingshi",
       "name": "👑星辰影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ftb_XBPQ.jar",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -969,7 +969,7 @@
       "key": "crbite",
       "name": "👑比特秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ffm241025.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ffm241025.jar",
       "api": "csp_Bttwo"
     },
 
@@ -978,7 +978,7 @@
       "key": "crqiyou",
       "name": "👑奇优秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ffm241025.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ffm241025.jar",
       "api": "csp_Qiyou"
     },
 
@@ -986,7 +986,7 @@
       "key": "wangwangmb",
       "name": "👑旺旺秒播┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ftb_XBPQ.jar",
       "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
@@ -1335,7 +1335,7 @@
 {
   "key": "csp_aueteys",
   "name": "👑Auete影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-  "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ftb_XBPQ.jar",
+  "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ftb_XBPQ.jar",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -1360,7 +1360,7 @@
       "name": "👑libvio影视┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Libvio",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/FTY.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -1386,7 +1386,7 @@
       "name": "👑新6V磁力┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_SixV",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/FTY.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -1568,7 +1568,7 @@
       "name": "🌥️玩偶哥哥4K┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_WoGG",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/wanougege.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/wanougege.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -1585,7 +1585,7 @@
     "name": "🌥️蜡笔4K网盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "api": "csp_Wobg",
-    "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/danmu.php",
+    "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/danmu.php",
     "quickSearch": 1,
     "changeable": 1,
     "filterable": 1,
@@ -1602,7 +1602,7 @@
     "name": "🌥️云星4K网盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
     "type": 3,
     "api": "csp_Wobg",
-    "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/danmu.php",
+    "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/danmu.php",
     "quickSearch": 1,
     "changeable": 1,
     "filterable": 1,
@@ -1619,7 +1619,7 @@
       "name": "🌥️至臻4k网盘┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
       "api": "csp_Duopan",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/ffm241025.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/ffm241025.jar",
       "filterable": 1,
       "ext": "http://mpanso.com"
     },
@@ -1642,7 +1642,7 @@
   {
       "key": "xyduanju",
       "name": "👑星芽短剧┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/PA.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/PA.jar",
       "type": 3,
       "api": "csp_AppXY",
       "searchable": 0,
@@ -1653,7 +1653,7 @@
   {
       "key": "csp_YouShengBook",
       "name": "📖老白听书┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FM.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/FM.jar",
       "type": 3,
       "playerType": "2",
       "api": "csp_LaoBaiBook",
@@ -1683,7 +1683,7 @@
       "name": "夸克盘搜B┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/FTY.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -1698,7 +1698,7 @@
       "name": "阿里盘搜A┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/FTY.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -1712,7 +1712,7 @@
       "name": "阿里盘搜B┃B站【晨瑞黑科】",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/jar/FTY.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/FTY.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
