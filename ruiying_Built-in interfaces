@@ -11,7 +11,7 @@
    {
       "name": "B站【晨瑞黑科】直播源",
       "type": 0,
-      "url": "./IPTV",
+      "url": "地址",
       "ua": "okhttp/4.1.0",
       "playerType": 1,
       "epg": "https://epg.crestekk.cn/api/diyp/?ch={name}&date={date}",
