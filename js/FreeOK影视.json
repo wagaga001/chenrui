@@ -6,7 +6,7 @@
              "图片": "data-original=\"&&\"",
              "标题": "title=\"&&\"",
              "播放链接": "href=\"&&\"",
-             "搜索url": "https://www.freeok.lol/vodsearch.html?wd={wd}",
+             "搜索url": "https://www.freeok.one/vodsearch.html?wd={wd}",
              "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$shuangju",
-             "分类url": "https://www.freeok.lol/type/{cateId}.html"
+             "分类url": "https://www.freeok.one/type/{cateId}.html"
              }
