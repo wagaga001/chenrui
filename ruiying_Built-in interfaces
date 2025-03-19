@@ -131,7 +131,7 @@
  {
       "key": "yumizy",
       "name": "⏭️包谷APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/JIQIAO250304.jar",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
@@ -141,7 +141,7 @@
  {
     "key": "xdaizy",
     "name": "⏭️欣黛APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-    "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
+    "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/JIQIAO250304.jar",
     "type": 3,
     "api": "csp_Xdai",
     "playerType": 1,
@@ -151,7 +151,7 @@
 {
       "key": "youzhizy",
       "name": "⏭️优影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/JIQIAO250304.jar",
       "type": 3,
       "api": "csp_Xdai",
       "playerType": 1,
@@ -161,7 +161,7 @@
  {
       "key": "moys",
       "name": "⏭️木偶APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/JIQIAO250304.jar",
       "type": 3,
       "api": "csp_Muou",
       "playerType": 2,
@@ -171,7 +171,7 @@
 {
       "key": "muouys",
       "name": "⏭️哞哞APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/JIQIAO250304.jar",
       "type": 3,
       "api": "csp_Muou",
       "playerType": 2,
@@ -194,7 +194,7 @@
       "key": "csp_Hudie",
       "name": "⏭️蝶影APP┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/JIQIAO250304.jar",
       "api": "csp_Hudie",
       "playerType": 2,
       "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
@@ -370,7 +370,7 @@
   {
       "key": "csp_sbb",
       "name": "👑厂长资源A┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/JIQIAO250304.jar",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -384,7 +384,7 @@
       "key": "csp_CZSPP",
       "name": "👑厂长资源B┃B站【晨瑞黑科】水印广告勿信，谨防诈骗",
       "type": 3,
-      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/QIAOJI.jar",
+      "jar": "https://gitee.com/chenrui66678/cr_-test/raw/master/JAR/JIQIAO250304.jar",
       "api": "csp_Czsapp",
       "searchable": 1,
       "playerType": 1,
