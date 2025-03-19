@@ -1,8 +1,12 @@
 {
 	"classes": [
 		{
-			"type_name": "关注B站[晨瑞黑科]",
-			"type_id": "关注B站[晨瑞黑科]"
+			"type_name": "晨瑞黑科",
+			"type_id": "晨瑞黑科"
+		},
+	       {
+			"type_name": "糊涂鸦音悦",
+			"type_id": "糊涂鸦音悦"
 		},
 		{
 			"type_name": "MV",
