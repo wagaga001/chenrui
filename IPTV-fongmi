@@ -10,6 +10,15 @@
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://cr.5987768.xyz/关注B站[晨瑞黑科]获取更多福利/TV-LOGO/{name}.png"
    },
+ {
+      "name": "B站【晨瑞黑科】酷9源",
+      "type": 0,
+      "url": "https://tvbox.chenrui.ip-ddns.com/itv-UA：9db26592dad735f8",
+      "playerType": 1,
+      "ua": "9db26592dad735f8",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://cr.5987768.xyz/关注B站[晨瑞黑科]获取更多福利/TV-LOGO/{name}.png"
+   },
    //肥羊allinone直播
    {
       "name": "肥羊直播",
