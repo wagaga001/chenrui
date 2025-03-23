@@ -5,7 +5,7 @@
       "name": "B站【晨瑞黑科】直播源",
       "type": 0,
       "url": "https://tvbox.chenrui.ip-ddns.com/TVZB",
-      "playerType": 1,
+      "playerType": 2,
       "ua": "okhttp/4.1.0",
       "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
       "logo": "https://cr.5987768.xyz/关注B站[晨瑞黑科]获取更多福利/TV-LOGO/{name}.png"
